@@ -1,0 +1,441 @@
+year,round,raceName,date,driverName,constructorName,position,Q1,Q2,Q3
+2022,1,Bahrain Grand Prix,2022-03-20,Charles Leclerc,Ferrari,1,1:31.471,1:30.932,1:30.558
+2022,1,Bahrain Grand Prix,2022-03-20,Max Verstappen,Red Bull,2,1:31.785,1:30.757,1:30.681
+2022,1,Bahrain Grand Prix,2022-03-20,Carlos Sainz,Ferrari,3,1:31.567,1:30.787,1:30.687
+2022,1,Bahrain Grand Prix,2022-03-20,Sergio Pérez,Red Bull,4,1:32.311,1:31.008,1:30.921
+2022,1,Bahrain Grand Prix,2022-03-20,Lewis Hamilton,Mercedes,5,1:32.285,1:31.048,1:31.238
+2022,1,Bahrain Grand Prix,2022-03-20,Valtteri Bottas,Alfa Romeo,6,1:31.919,1:31.717,1:31.560
+2022,1,Bahrain Grand Prix,2022-03-20,Kevin Magnussen,Haas F1 Team,7,1:31.955,1:31.461,1:31.808
+2022,1,Bahrain Grand Prix,2022-03-20,Fernando Alonso,Alpine F1 Team,8,1:32.346,1:31.621,1:32.195
+2022,1,Bahrain Grand Prix,2022-03-20,George Russell,Mercedes,9,1:32.269,1:31.252,1:32.216
+2022,1,Bahrain Grand Prix,2022-03-20,Pierre Gasly,AlphaTauri,10,1:32.096,1:31.635,1:32.338
+2022,1,Bahrain Grand Prix,2022-03-20,Esteban Ocon,Alpine F1 Team,11,1:32.041,1:31.782,
+2022,1,Bahrain Grand Prix,2022-03-20,Mick Schumacher,Haas F1 Team,12,1:32.380,1:31.998,
+2022,1,Bahrain Grand Prix,2022-03-20,Lando Norris,McLaren,13,1:32.239,1:32.008,
+2022,1,Bahrain Grand Prix,2022-03-20,Alexander Albon,Williams,14,1:32.726,1:32.664,
+2022,1,Bahrain Grand Prix,2022-03-20,Guanyu Zhou,Alfa Romeo,15,1:32.493,1:33.543,
+2022,1,Bahrain Grand Prix,2022-03-20,Yuki Tsunoda,AlphaTauri,16,1:32.750,,
+2022,1,Bahrain Grand Prix,2022-03-20,Nico Hülkenberg,Aston Martin,17,1:32.777,,
+2022,1,Bahrain Grand Prix,2022-03-20,Daniel Ricciardo,McLaren,18,1:32.945,,
+2022,1,Bahrain Grand Prix,2022-03-20,Lance Stroll,Aston Martin,19,1:33.032,,
+2022,1,Bahrain Grand Prix,2022-03-20,Nicholas Latifi,Williams,20,1:33.634,,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Sergio Pérez,Red Bull,1,1:29.705,1:28.924,1:28.200
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Charles Leclerc,Ferrari,2,1:29.039,1:28.780,1:28.225
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Carlos Sainz,Ferrari,3,1:28.855,1:28.686,1:28.402
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Max Verstappen,Red Bull,4,1:28.928,1:28.945,1:28.461
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Esteban Ocon,Alpine F1 Team,5,1:30.093,1:29.584,1:29.068
+2022,2,Saudi Arabian Grand Prix,2022-03-27,George Russell,Mercedes,6,1:29.680,1:29.618,1:29.104
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Fernando Alonso,Alpine F1 Team,7,1:29.978,1:29.295,1:29.147
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Valtteri Bottas,Alfa Romeo,8,1:29.683,1:29.404,1:29.183
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Pierre Gasly,AlphaTauri,9,1:29.891,1:29.418,1:29.254
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Kevin Magnussen,Haas F1 Team,10,1:29.831,1:29.546,1:29.588
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Lando Norris,McLaren,11,1:29.957,1:29.651,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Daniel Ricciardo,McLaren,12,1:30.009,1:29.773,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Guanyu Zhou,Alfa Romeo,13,1:29.978,1:29.819,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Mick Schumacher,Haas F1 Team,14,1:30.167,1:29.920,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Lance Stroll,Aston Martin,15,1:30.256,1:31.009,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Lewis Hamilton,Mercedes,16,1:30.343,,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Alexander Albon,Williams,17,1:30.492,,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Nico Hülkenberg,Aston Martin,18,1:30.543,,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Nicholas Latifi,Williams,19,1:31.817,,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Yuki Tsunoda,AlphaTauri,20,,,
+2022,3,Australian Grand Prix,2022-04-10,Charles Leclerc,Ferrari,1,1:18.881,1:18.606,1:17.868
+2022,3,Australian Grand Prix,2022-04-10,Max Verstappen,Red Bull,2,1:18.580,1:18.611,1:18.154
+2022,3,Australian Grand Prix,2022-04-10,Sergio Pérez,Red Bull,3,1:18.834,1:18.340,1:18.240
+2022,3,Australian Grand Prix,2022-04-10,Lando Norris,McLaren,4,1:19.280,1:19.066,1:18.703
+2022,3,Australian Grand Prix,2022-04-10,Lewis Hamilton,Mercedes,5,1:19.401,1:19.106,1:18.825
+2022,3,Australian Grand Prix,2022-04-10,George Russell,Mercedes,6,1:19.405,1:19.076,1:18.933
+2022,3,Australian Grand Prix,2022-04-10,Daniel Ricciardo,McLaren,7,1:19.665,1:19.130,1:19.032
+2022,3,Australian Grand Prix,2022-04-10,Esteban Ocon,Alpine F1 Team,8,1:19.605,1:19.136,1:19.061
+2022,3,Australian Grand Prix,2022-04-10,Carlos Sainz,Ferrari,9,1:18.983,1:18.469,1:19.408
+2022,3,Australian Grand Prix,2022-04-10,Fernando Alonso,Alpine F1 Team,10,1:19.192,1:18.815,
+2022,3,Australian Grand Prix,2022-04-10,Pierre Gasly,AlphaTauri,11,1:19.580,1:19.226,
+2022,3,Australian Grand Prix,2022-04-10,Valtteri Bottas,Alfa Romeo,12,1:19.251,1:19.410,
+2022,3,Australian Grand Prix,2022-04-10,Yuki Tsunoda,AlphaTauri,13,1:19.742,1:19.424,
+2022,3,Australian Grand Prix,2022-04-10,Guanyu Zhou,Alfa Romeo,14,1:19.910,1:20.155,
+2022,3,Australian Grand Prix,2022-04-10,Mick Schumacher,Haas F1 Team,15,1:20.104,1:20.465,
+2022,3,Australian Grand Prix,2022-04-10,Alexander Albon,Williams,16,1:20.135,,
+2022,3,Australian Grand Prix,2022-04-10,Kevin Magnussen,Haas F1 Team,17,1:20.254,,
+2022,3,Australian Grand Prix,2022-04-10,Sebastian Vettel,Aston Martin,18,1:21.149,,
+2022,3,Australian Grand Prix,2022-04-10,Nicholas Latifi,Williams,19,1:21.372,,
+2022,3,Australian Grand Prix,2022-04-10,Lance Stroll,Aston Martin,20,,,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Max Verstappen,Red Bull,1,1:19.295,1:18.793,1:27.999
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Charles Leclerc,Ferrari,2,1:18.796,1:19.584,1:28.778
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Lando Norris,McLaren,3,1:20.168,1:19.294,1:29.131
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Kevin Magnussen,Haas F1 Team,4,1:20.147,1:19.902,1:29.164
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Fernando Alonso,Alpine F1 Team,5,1:20.198,1:19.595,1:29.202
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Daniel Ricciardo,McLaren,6,1:19.980,1:20.031,1:29.742
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Sergio Pérez,Red Bull,7,1:19.773,1:19.296,1:29.808
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Valtteri Bottas,Alfa Romeo,8,1:20.419,1:20.192,1:30.439
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Sebastian Vettel,Aston Martin,9,1:20.364,1:19.957,1:31.062
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Carlos Sainz,Ferrari,10,1:19.305,1:18.990,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,George Russell,Mercedes,11,1:20.383,1:20.757,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Mick Schumacher,Haas F1 Team,12,1:20.422,1:20.916,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Lewis Hamilton,Mercedes,13,1:20.470,1:21.138,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Guanyu Zhou,Alfa Romeo,14,1:19.730,1:21.434,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Lance Stroll,Aston Martin,15,1:20.342,1:28.119,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Yuki Tsunoda,AlphaTauri,16,1:20.474,,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Pierre Gasly,AlphaTauri,17,1:20.732,,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Nicholas Latifi,Williams,18,1:21.971,,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Esteban Ocon,Alpine F1 Team,19,1:22.338,,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,Alexander Albon,Williams,20,,,
+2022,5,Miami Grand Prix,2022-05-08,Charles Leclerc,Ferrari,1,1:29.474,1:29.130,1:28.796
+2022,5,Miami Grand Prix,2022-05-08,Carlos Sainz,Ferrari,2,1:30.079,1:29.729,1:28.986
+2022,5,Miami Grand Prix,2022-05-08,Max Verstappen,Red Bull,3,1:29.836,1:29.202,1:28.991
+2022,5,Miami Grand Prix,2022-05-08,Sergio Pérez,Red Bull,4,1:30.055,1:29.673,1:29.036
+2022,5,Miami Grand Prix,2022-05-08,Valtteri Bottas,Alfa Romeo,5,1:30.845,1:29.751,1:29.475
+2022,5,Miami Grand Prix,2022-05-08,Lewis Hamilton,Mercedes,6,1:30.388,1:29.797,1:29.625
+2022,5,Miami Grand Prix,2022-05-08,Pierre Gasly,AlphaTauri,7,1:30.779,1:30.128,1:29.690
+2022,5,Miami Grand Prix,2022-05-08,Lando Norris,McLaren,8,1:30.761,1:29.634,1:29.750
+2022,5,Miami Grand Prix,2022-05-08,Yuki Tsunoda,AlphaTauri,9,1:30.485,1:30.031,1:29.932
+2022,5,Miami Grand Prix,2022-05-08,Lance Stroll,Aston Martin,10,1:30.441,1:29.996,1:30.676
+2022,5,Miami Grand Prix,2022-05-08,Fernando Alonso,Alpine F1 Team,11,1:30.407,1:30.160,
+2022,5,Miami Grand Prix,2022-05-08,George Russell,Mercedes,12,1:30.490,1:30.173,
+2022,5,Miami Grand Prix,2022-05-08,Sebastian Vettel,Aston Martin,13,1:30.677,1:30.214,
+2022,5,Miami Grand Prix,2022-05-08,Daniel Ricciardo,McLaren,14,1:30.583,1:30.310,
+2022,5,Miami Grand Prix,2022-05-08,Mick Schumacher,Haas F1 Team,15,1:30.645,1:30.423,
+2022,5,Miami Grand Prix,2022-05-08,Kevin Magnussen,Haas F1 Team,16,1:30.975,,
+2022,5,Miami Grand Prix,2022-05-08,Guanyu Zhou,Alfa Romeo,17,1:31.020,,
+2022,5,Miami Grand Prix,2022-05-08,Alexander Albon,Williams,18,1:31.266,,
+2022,5,Miami Grand Prix,2022-05-08,Nicholas Latifi,Williams,19,1:31.325,,
+2022,5,Miami Grand Prix,2022-05-08,Esteban Ocon,Alpine F1 Team,20,,,
+2022,6,Spanish Grand Prix,2022-05-22,Charles Leclerc,Ferrari,1,1:19.861,1:19.969,1:18.750
+2022,6,Spanish Grand Prix,2022-05-22,Max Verstappen,Red Bull,2,1:20.091,1:19.219,1:19.073
+2022,6,Spanish Grand Prix,2022-05-22,Carlos Sainz,Ferrari,3,1:19.892,1:19.453,1:19.166
+2022,6,Spanish Grand Prix,2022-05-22,George Russell,Mercedes,4,1:20.218,1:19.470,1:19.393
+2022,6,Spanish Grand Prix,2022-05-22,Sergio Pérez,Red Bull,5,1:20.447,1:19.830,1:19.420
+2022,6,Spanish Grand Prix,2022-05-22,Lewis Hamilton,Mercedes,6,1:20.252,1:19.794,1:19.512
+2022,6,Spanish Grand Prix,2022-05-22,Valtteri Bottas,Alfa Romeo,7,1:20.355,1:20.053,1:19.608
+2022,6,Spanish Grand Prix,2022-05-22,Kevin Magnussen,Haas F1 Team,8,1:20.227,1:19.810,1:19.682
+2022,6,Spanish Grand Prix,2022-05-22,Daniel Ricciardo,McLaren,9,1:20.549,1:20.287,1:20.297
+2022,6,Spanish Grand Prix,2022-05-22,Mick Schumacher,Haas F1 Team,10,1:20.683,1:20.436,1:20.368
+2022,6,Spanish Grand Prix,2022-05-22,Lando Norris,McLaren,11,1:20.838,1:20.471,
+2022,6,Spanish Grand Prix,2022-05-22,Esteban Ocon,Alpine F1 Team,12,1:20.880,1:20.638,
+2022,6,Spanish Grand Prix,2022-05-22,Yuki Tsunoda,AlphaTauri,13,1:20.707,1:20.639,
+2022,6,Spanish Grand Prix,2022-05-22,Pierre Gasly,AlphaTauri,14,1:20.719,1:20.861,
+2022,6,Spanish Grand Prix,2022-05-22,Guanyu Zhou,Alfa Romeo,15,1:20.476,1:21.094,
+2022,6,Spanish Grand Prix,2022-05-22,Sebastian Vettel,Aston Martin,16,1:20.954,,
+2022,6,Spanish Grand Prix,2022-05-22,Fernando Alonso,Alpine F1 Team,17,1:21.043,,
+2022,6,Spanish Grand Prix,2022-05-22,Lance Stroll,Aston Martin,18,1:21.418,,
+2022,6,Spanish Grand Prix,2022-05-22,Alexander Albon,Williams,19,1:21.645,,
+2022,6,Spanish Grand Prix,2022-05-22,Nicholas Latifi,Williams,20,1:21.915,,
+2022,7,Monaco Grand Prix,2022-05-29,Charles Leclerc,Ferrari,1,1:12.569,1:11.864,1:11.376
+2022,7,Monaco Grand Prix,2022-05-29,Carlos Sainz,Ferrari,2,1:12.616,1:12.074,1:11.601
+2022,7,Monaco Grand Prix,2022-05-29,Sergio Pérez,Red Bull,3,1:13.004,1:11.954,1:11.629
+2022,7,Monaco Grand Prix,2022-05-29,Max Verstappen,Red Bull,4,1:12.993,1:12.117,1:11.666
+2022,7,Monaco Grand Prix,2022-05-29,Lando Norris,McLaren,5,1:12.927,1:12.266,1:11.849
+2022,7,Monaco Grand Prix,2022-05-29,George Russell,Mercedes,6,1:12.787,1:12.617,1:12.112
+2022,7,Monaco Grand Prix,2022-05-29,Fernando Alonso,Alpine F1 Team,7,1:13.394,1:12.688,1:12.247
+2022,7,Monaco Grand Prix,2022-05-29,Lewis Hamilton,Mercedes,8,1:13.444,1:12.595,1:12.560
+2022,7,Monaco Grand Prix,2022-05-29,Sebastian Vettel,Aston Martin,9,1:13.313,1:12.613,1:12.732
+2022,7,Monaco Grand Prix,2022-05-29,Esteban Ocon,Alpine F1 Team,10,1:12.848,1:12.528,1:13.047
+2022,7,Monaco Grand Prix,2022-05-29,Yuki Tsunoda,AlphaTauri,11,1:13.110,1:12.797,
+2022,7,Monaco Grand Prix,2022-05-29,Valtteri Bottas,Alfa Romeo,12,1:13.541,1:12.909,
+2022,7,Monaco Grand Prix,2022-05-29,Kevin Magnussen,Haas F1 Team,13,1:13.069,1:12.921,
+2022,7,Monaco Grand Prix,2022-05-29,Daniel Ricciardo,McLaren,14,1:13.338,1:12.964,
+2022,7,Monaco Grand Prix,2022-05-29,Mick Schumacher,Haas F1 Team,15,1:13.469,1:13.081,
+2022,7,Monaco Grand Prix,2022-05-29,Alexander Albon,Williams,16,1:13.611,,
+2022,7,Monaco Grand Prix,2022-05-29,Pierre Gasly,AlphaTauri,17,1:13.660,,
+2022,7,Monaco Grand Prix,2022-05-29,Lance Stroll,Aston Martin,18,1:13.678,,
+2022,7,Monaco Grand Prix,2022-05-29,Nicholas Latifi,Williams,19,1:14.403,,
+2022,7,Monaco Grand Prix,2022-05-29,Guanyu Zhou,Alfa Romeo,20,1:15.606,,
+2022,8,Azerbaijan Grand Prix,2022-06-12,Charles Leclerc,Ferrari,1,1:42.865,1:42.046,1:41.359
+2022,8,Azerbaijan Grand Prix,2022-06-12,Sergio Pérez,Red Bull,2,1:42.733,1:41.955,1:41.641
+2022,8,Azerbaijan Grand Prix,2022-06-12,Max Verstappen,Red Bull,3,1:42.722,1:42.227,1:41.706
+2022,8,Azerbaijan Grand Prix,2022-06-12,Carlos Sainz,Ferrari,4,1:42.957,1:42.088,1:41.814
+2022,8,Azerbaijan Grand Prix,2022-06-12,George Russell,Mercedes,5,1:43.754,1:43.281,1:42.712
+2022,8,Azerbaijan Grand Prix,2022-06-12,Pierre Gasly,AlphaTauri,6,1:43.268,1:43.129,1:42.845
+2022,8,Azerbaijan Grand Prix,2022-06-12,Lewis Hamilton,Mercedes,7,1:43.939,1:43.182,1:42.924
+2022,8,Azerbaijan Grand Prix,2022-06-12,Yuki Tsunoda,AlphaTauri,8,1:43.595,1:43.376,1:43.056
+2022,8,Azerbaijan Grand Prix,2022-06-12,Sebastian Vettel,Aston Martin,9,1:43.279,1:43.268,1:43.091
+2022,8,Azerbaijan Grand Prix,2022-06-12,Fernando Alonso,Alpine F1 Team,10,1:44.083,1:43.360,1:43.173
+2022,8,Azerbaijan Grand Prix,2022-06-12,Lando Norris,McLaren,11,1:44.237,1:43.398,
+2022,8,Azerbaijan Grand Prix,2022-06-12,Daniel Ricciardo,McLaren,12,1:44.437,1:43.574,
+2022,8,Azerbaijan Grand Prix,2022-06-12,Esteban Ocon,Alpine F1 Team,13,1:43.903,1:43.585,
+2022,8,Azerbaijan Grand Prix,2022-06-12,Guanyu Zhou,Alfa Romeo,14,1:43.777,1:43.790,
+2022,8,Azerbaijan Grand Prix,2022-06-12,Valtteri Bottas,Alfa Romeo,15,1:44.478,1:44.444,
+2022,8,Azerbaijan Grand Prix,2022-06-12,Kevin Magnussen,Haas F1 Team,16,1:44.643,,
+2022,8,Azerbaijan Grand Prix,2022-06-12,Alexander Albon,Williams,17,1:44.719,,
+2022,8,Azerbaijan Grand Prix,2022-06-12,Nicholas Latifi,Williams,18,1:45.367,,
+2022,8,Azerbaijan Grand Prix,2022-06-12,Lance Stroll,Aston Martin,19,1:45.371,,
+2022,8,Azerbaijan Grand Prix,2022-06-12,Mick Schumacher,Haas F1 Team,20,1:45.775,,
+2022,9,Canadian Grand Prix,2022-06-19,Max Verstappen,Red Bull,1,1:32.219,1:23.746,1:21.299
+2022,9,Canadian Grand Prix,2022-06-19,Fernando Alonso,Alpine F1 Team,2,1:32.277,1:24.848,1:21.944
+2022,9,Canadian Grand Prix,2022-06-19,Carlos Sainz,Ferrari,3,1:32.781,1:25.197,1:22.096
+2022,9,Canadian Grand Prix,2022-06-19,Lewis Hamilton,Mercedes,4,1:33.841,1:25.543,1:22.891
+2022,9,Canadian Grand Prix,2022-06-19,Kevin Magnussen,Haas F1 Team,5,1:32.957,1:26.254,1:22.960
+2022,9,Canadian Grand Prix,2022-06-19,Mick Schumacher,Haas F1 Team,6,1:33.707,1:25.684,1:23.356
+2022,9,Canadian Grand Prix,2022-06-19,Esteban Ocon,Alpine F1 Team,7,1:33.012,1:26.135,1:23.529
+2022,9,Canadian Grand Prix,2022-06-19,George Russell,Mercedes,8,1:33.160,1:24.950,1:23.557
+2022,9,Canadian Grand Prix,2022-06-19,Daniel Ricciardo,McLaren,9,1:33.636,1:26.375,1:23.749
+2022,9,Canadian Grand Prix,2022-06-19,Guanyu Zhou,Alfa Romeo,10,1:33.692,1:26.116,1:24.030
+2022,9,Canadian Grand Prix,2022-06-19,Valtteri Bottas,Alfa Romeo,11,1:33.689,1:26.788,
+2022,9,Canadian Grand Prix,2022-06-19,Alexander Albon,Williams,12,1:34.047,1:26.858,
+2022,9,Canadian Grand Prix,2022-06-19,Sergio Pérez,Red Bull,13,1:33.929,1:33.127,
+2022,9,Canadian Grand Prix,2022-06-19,Lando Norris,McLaren,14,1:34.066,,
+2022,9,Canadian Grand Prix,2022-06-19,Charles Leclerc,Ferrari,15,1:33.008,,
+2022,9,Canadian Grand Prix,2022-06-19,Pierre Gasly,AlphaTauri,16,1:34.492,,
+2022,9,Canadian Grand Prix,2022-06-19,Sebastian Vettel,Aston Martin,17,1:34.512,,
+2022,9,Canadian Grand Prix,2022-06-19,Lance Stroll,Aston Martin,18,1:35.532,,
+2022,9,Canadian Grand Prix,2022-06-19,Nicholas Latifi,Williams,19,1:35.660,,
+2022,9,Canadian Grand Prix,2022-06-19,Yuki Tsunoda,AlphaTauri,20,1:36.575,,
+2022,10,British Grand Prix,2022-07-03,Carlos Sainz,Ferrari,1,1:40.190,1:41.602,1:40.983
+2022,10,British Grand Prix,2022-07-03,Max Verstappen,Red Bull,2,1:39.129,1:40.655,1:41.055
+2022,10,British Grand Prix,2022-07-03,Charles Leclerc,Ferrari,3,1:39.846,1:41.247,1:41.298
+2022,10,British Grand Prix,2022-07-03,Sergio Pérez,Red Bull,4,1:40.521,1:42.513,1:41.616
+2022,10,British Grand Prix,2022-07-03,Lewis Hamilton,Mercedes,5,1:40.428,1:41.062,1:41.995
+2022,10,British Grand Prix,2022-07-03,Lando Norris,McLaren,6,1:41.515,1:41.821,1:42.084
+2022,10,British Grand Prix,2022-07-03,Fernando Alonso,Alpine F1 Team,7,1:41.598,1:42.209,1:42.116
+2022,10,British Grand Prix,2022-07-03,George Russell,Mercedes,8,1:40.028,1:41.725,1:42.161
+2022,10,British Grand Prix,2022-07-03,Guanyu Zhou,Alfa Romeo,9,1:40.791,1:42.640,1:42.719
+2022,10,British Grand Prix,2022-07-03,Nicholas Latifi,Williams,10,1:41.998,1:43.273,2:03.095
+2022,10,British Grand Prix,2022-07-03,Pierre Gasly,AlphaTauri,11,1:41.680,1:43.702,
+2022,10,British Grand Prix,2022-07-03,Valtteri Bottas,Alfa Romeo,12,1:41.396,1:44.232,
+2022,10,British Grand Prix,2022-07-03,Yuki Tsunoda,AlphaTauri,13,1:41.893,1:44.311,
+2022,10,British Grand Prix,2022-07-03,Daniel Ricciardo,McLaren,14,1:41.933,1:44.355,
+2022,10,British Grand Prix,2022-07-03,Esteban Ocon,Alpine F1 Team,15,1:41.730,1:45.190,
+2022,10,British Grand Prix,2022-07-03,Alexander Albon,Williams,16,1:42.078,,
+2022,10,British Grand Prix,2022-07-03,Kevin Magnussen,Haas F1 Team,17,1:42.159,,
+2022,10,British Grand Prix,2022-07-03,Sebastian Vettel,Aston Martin,18,1:42.666,,
+2022,10,British Grand Prix,2022-07-03,Mick Schumacher,Haas F1 Team,19,1:42.708,,
+2022,10,British Grand Prix,2022-07-03,Lance Stroll,Aston Martin,20,1:43.430,,
+2022,11,Austrian Grand Prix,2022-07-10,Max Verstappen,Red Bull,1,1:05.852,1:05.374,1:04.984
+2022,11,Austrian Grand Prix,2022-07-10,Charles Leclerc,Ferrari,2,1:05.419,1:05.287,1:05.013
+2022,11,Austrian Grand Prix,2022-07-10,Carlos Sainz,Ferrari,3,1:05.660,1:05.576,1:05.066
+2022,11,Austrian Grand Prix,2022-07-10,George Russell,Mercedes,4,1:06.235,1:05.697,1:05.431
+2022,11,Austrian Grand Prix,2022-07-10,Esteban Ocon,Alpine F1 Team,5,1:06.468,1:05.993,1:05.726
+2022,11,Austrian Grand Prix,2022-07-10,Kevin Magnussen,Haas F1 Team,6,1:06.366,1:05.894,1:05.879
+2022,11,Austrian Grand Prix,2022-07-10,Mick Schumacher,Haas F1 Team,7,1:06.405,1:06.151,1:06.011
+2022,11,Austrian Grand Prix,2022-07-10,Fernando Alonso,Alpine F1 Team,8,1:06.016,1:06.082,1:06.103
+2022,11,Austrian Grand Prix,2022-07-10,Lewis Hamilton,Mercedes,9,1:06.079,1:05.475,1:13.151
+2022,11,Austrian Grand Prix,2022-07-10,Pierre Gasly,AlphaTauri,10,1:06.589,1:06.160,
+2022,11,Austrian Grand Prix,2022-07-10,Alexander Albon,Williams,11,1:06.516,1:06.230,
+2022,11,Austrian Grand Prix,2022-07-10,Valtteri Bottas,Alfa Romeo,12,1:06.442,1:06.319,
+2022,11,Austrian Grand Prix,2022-07-10,Sergio Pérez,Red Bull,13,1:06.143,1:06.458,
+2022,11,Austrian Grand Prix,2022-07-10,Yuki Tsunoda,AlphaTauri,14,1:06.463,1:06.851,
+2022,11,Austrian Grand Prix,2022-07-10,Lando Norris,McLaren,15,1:06.330,1:25.847,
+2022,11,Austrian Grand Prix,2022-07-10,Daniel Ricciardo,McLaren,16,1:06.613,,
+2022,11,Austrian Grand Prix,2022-07-10,Lance Stroll,Aston Martin,17,1:06.847,,
+2022,11,Austrian Grand Prix,2022-07-10,Guanyu Zhou,Alfa Romeo,18,1:06.901,,
+2022,11,Austrian Grand Prix,2022-07-10,Nicholas Latifi,Williams,19,1:07.003,,
+2022,11,Austrian Grand Prix,2022-07-10,Sebastian Vettel,Aston Martin,20,1:07.083,,
+2022,12,French Grand Prix,2022-07-24,Charles Leclerc,Ferrari,1,1:31.727,1:31.216,1:30.872
+2022,12,French Grand Prix,2022-07-24,Max Verstappen,Red Bull,2,1:31.891,1:31.990,1:31.176
+2022,12,French Grand Prix,2022-07-24,Sergio Pérez,Red Bull,3,1:32.354,1:32.120,1:31.335
+2022,12,French Grand Prix,2022-07-24,Lewis Hamilton,Mercedes,4,1:33.041,1:32.274,1:31.765
+2022,12,French Grand Prix,2022-07-24,Lando Norris,McLaren,5,1:32.672,1:32.777,1:32.032
+2022,12,French Grand Prix,2022-07-24,George Russell,Mercedes,6,1:33.109,1:32.633,1:32.131
+2022,12,French Grand Prix,2022-07-24,Fernando Alonso,Alpine F1 Team,7,1:32.819,1:32.631,1:32.552
+2022,12,French Grand Prix,2022-07-24,Yuki Tsunoda,AlphaTauri,8,1:33.394,1:32.836,1:32.780
+2022,12,French Grand Prix,2022-07-24,Carlos Sainz,Ferrari,9,1:32.297,1:31.081,
+2022,12,French Grand Prix,2022-07-24,Kevin Magnussen,Haas F1 Team,10,1:32.756,1:32.649,
+2022,12,French Grand Prix,2022-07-24,Daniel Ricciardo,McLaren,11,1:33.404,1:32.922,
+2022,12,French Grand Prix,2022-07-24,Esteban Ocon,Alpine F1 Team,12,1:33.346,1:33.048,
+2022,12,French Grand Prix,2022-07-24,Valtteri Bottas,Alfa Romeo,13,1:33.034,1:33.052,
+2022,12,French Grand Prix,2022-07-24,Sebastian Vettel,Aston Martin,14,1:33.285,1:33.276,
+2022,12,French Grand Prix,2022-07-24,Alexander Albon,Williams,15,1:33.423,1:33.307,
+2022,12,French Grand Prix,2022-07-24,Pierre Gasly,AlphaTauri,16,1:33.439,,
+2022,12,French Grand Prix,2022-07-24,Lance Stroll,Aston Martin,17,1:33.439,,
+2022,12,French Grand Prix,2022-07-24,Guanyu Zhou,Alfa Romeo,18,1:33.674,,
+2022,12,French Grand Prix,2022-07-24,Mick Schumacher,Haas F1 Team,19,1:33.701,,
+2022,12,French Grand Prix,2022-07-24,Nicholas Latifi,Williams,20,1:33.794,,
+2022,13,Hungarian Grand Prix,2022-07-31,George Russell,Mercedes,1,1:18.407,1:18.154,1:17.377
+2022,13,Hungarian Grand Prix,2022-07-31,Carlos Sainz,Ferrari,2,1:18.434,1:17.946,1:17.421
+2022,13,Hungarian Grand Prix,2022-07-31,Charles Leclerc,Ferrari,3,1:18.806,1:17.768,1:17.567
+2022,13,Hungarian Grand Prix,2022-07-31,Lando Norris,McLaren,4,1:18.653,1:18.121,1:17.769
+2022,13,Hungarian Grand Prix,2022-07-31,Esteban Ocon,Alpine F1 Team,5,1:18.866,1:18.216,1:18.018
+2022,13,Hungarian Grand Prix,2022-07-31,Fernando Alonso,Alpine F1 Team,6,1:18.716,1:17.904,1:18.078
+2022,13,Hungarian Grand Prix,2022-07-31,Lewis Hamilton,Mercedes,7,1:18.374,1:18.035,1:18.142
+2022,13,Hungarian Grand Prix,2022-07-31,Valtteri Bottas,Alfa Romeo,8,1:18.935,1:18.445,1:18.157
+2022,13,Hungarian Grand Prix,2022-07-31,Daniel Ricciardo,McLaren,9,1:18.775,1:18.198,1:18.379
+2022,13,Hungarian Grand Prix,2022-07-31,Max Verstappen,Red Bull,10,1:18.509,1:17.703,1:18.823
+2022,13,Hungarian Grand Prix,2022-07-31,Sergio Pérez,Red Bull,11,1:19.118,1:18.516,
+2022,13,Hungarian Grand Prix,2022-07-31,Guanyu Zhou,Alfa Romeo,12,1:18.973,1:18.573,
+2022,13,Hungarian Grand Prix,2022-07-31,Kevin Magnussen,Haas F1 Team,13,1:18.993,1:18.825,
+2022,13,Hungarian Grand Prix,2022-07-31,Lance Stroll,Aston Martin,14,1:19.205,1:19.137,
+2022,13,Hungarian Grand Prix,2022-07-31,Mick Schumacher,Haas F1 Team,15,1:19.164,1:19.202,
+2022,13,Hungarian Grand Prix,2022-07-31,Yuki Tsunoda,AlphaTauri,16,1:19.240,,
+2022,13,Hungarian Grand Prix,2022-07-31,Alexander Albon,Williams,17,1:19.256,,
+2022,13,Hungarian Grand Prix,2022-07-31,Sebastian Vettel,Aston Martin,18,1:19.273,,
+2022,13,Hungarian Grand Prix,2022-07-31,Pierre Gasly,AlphaTauri,19,1:19.527,,
+2022,13,Hungarian Grand Prix,2022-07-31,Nicholas Latifi,Williams,20,1:19.570,,
+2022,14,Belgian Grand Prix,2022-08-28,Max Verstappen,Red Bull,1,1:44.581,1:44.723,1:43.665
+2022,14,Belgian Grand Prix,2022-08-28,Carlos Sainz,Ferrari,2,1:45.050,1:45.418,1:44.297
+2022,14,Belgian Grand Prix,2022-08-28,Sergio Pérez,Red Bull,3,1:45.377,1:44.794,1:44.462
+2022,14,Belgian Grand Prix,2022-08-28,Charles Leclerc,Ferrari,4,1:45.572,1:44.551,1:44.553
+2022,14,Belgian Grand Prix,2022-08-28,Esteban Ocon,Alpine F1 Team,5,1:46.039,1:45.475,1:45.180
+2022,14,Belgian Grand Prix,2022-08-28,Fernando Alonso,Alpine F1 Team,6,1:46.075,1:45.552,1:45.368
+2022,14,Belgian Grand Prix,2022-08-28,Lewis Hamilton,Mercedes,7,1:45.736,1:45.420,1:45.503
+2022,14,Belgian Grand Prix,2022-08-28,George Russell,Mercedes,8,1:45.650,1:45.461,1:45.776
+2022,14,Belgian Grand Prix,2022-08-28,Alexander Albon,Williams,9,1:45.672,1:45.675,1:45.837
+2022,14,Belgian Grand Prix,2022-08-28,Lando Norris,McLaren,10,1:45.745,1:45.603,1:46.178
+2022,14,Belgian Grand Prix,2022-08-28,Daniel Ricciardo,McLaren,11,1:46.212,1:45.767,
+2022,14,Belgian Grand Prix,2022-08-28,Pierre Gasly,AlphaTauri,12,1:46.183,1:45.827,
+2022,14,Belgian Grand Prix,2022-08-28,Guanyu Zhou,Alfa Romeo,13,1:46.178,1:46.085,
+2022,14,Belgian Grand Prix,2022-08-28,Lance Stroll,Aston Martin,14,1:46.256,1:46.611,
+2022,14,Belgian Grand Prix,2022-08-28,Mick Schumacher,Haas F1 Team,15,1:46.342,1:47.718,
+2022,14,Belgian Grand Prix,2022-08-28,Sebastian Vettel,Aston Martin,16,1:46.344,,
+2022,14,Belgian Grand Prix,2022-08-28,Nicholas Latifi,Williams,17,1:46.401,,
+2022,14,Belgian Grand Prix,2022-08-28,Kevin Magnussen,Haas F1 Team,18,1:46.557,,
+2022,14,Belgian Grand Prix,2022-08-28,Yuki Tsunoda,AlphaTauri,19,1:46.692,,
+2022,14,Belgian Grand Prix,2022-08-28,Valtteri Bottas,Alfa Romeo,20,1:47.866,,
+2022,15,Dutch Grand Prix,2022-09-04,Max Verstappen,Red Bull,1,1:11.317,1:10.927,1:10.342
+2022,15,Dutch Grand Prix,2022-09-04,Charles Leclerc,Ferrari,2,1:11.443,1:10.988,1:10.363
+2022,15,Dutch Grand Prix,2022-09-04,Carlos Sainz,Ferrari,3,1:11.767,1:10.814,1:10.434
+2022,15,Dutch Grand Prix,2022-09-04,Lewis Hamilton,Mercedes,4,1:11.331,1:11.075,1:10.648
+2022,15,Dutch Grand Prix,2022-09-04,Sergio Pérez,Red Bull,5,1:11.641,1:11.314,1:11.077
+2022,15,Dutch Grand Prix,2022-09-04,George Russell,Mercedes,6,1:11.561,1:10.824,1:11.147
+2022,15,Dutch Grand Prix,2022-09-04,Lando Norris,McLaren,7,1:11.556,1:11.116,1:11.174
+2022,15,Dutch Grand Prix,2022-09-04,Mick Schumacher,Haas F1 Team,8,1:11.741,1:11.420,1:11.442
+2022,15,Dutch Grand Prix,2022-09-04,Yuki Tsunoda,AlphaTauri,9,1:11.427,1:11.428,1:12.556
+2022,15,Dutch Grand Prix,2022-09-04,Lance Stroll,Aston Martin,10,1:11.568,1:11.416,
+2022,15,Dutch Grand Prix,2022-09-04,Pierre Gasly,AlphaTauri,11,1:11.705,1:11.512,
+2022,15,Dutch Grand Prix,2022-09-04,Esteban Ocon,Alpine F1 Team,12,1:11.748,1:11.605,
+2022,15,Dutch Grand Prix,2022-09-04,Fernando Alonso,Alpine F1 Team,13,1:11.667,1:11.613,
+2022,15,Dutch Grand Prix,2022-09-04,Guanyu Zhou,Alfa Romeo,14,1:11.826,1:11.704,
+2022,15,Dutch Grand Prix,2022-09-04,Alexander Albon,Williams,15,1:11.695,1:11.802,
+2022,15,Dutch Grand Prix,2022-09-04,Valtteri Bottas,Alfa Romeo,16,1:11.961,,
+2022,15,Dutch Grand Prix,2022-09-04,Daniel Ricciardo,McLaren,17,1:12.081,,
+2022,15,Dutch Grand Prix,2022-09-04,Kevin Magnussen,Haas F1 Team,18,1:12.319,,
+2022,15,Dutch Grand Prix,2022-09-04,Sebastian Vettel,Aston Martin,19,1:12.391,,
+2022,15,Dutch Grand Prix,2022-09-04,Nicholas Latifi,Williams,20,1:13.353,,
+2022,16,Italian Grand Prix,2022-09-11,Charles Leclerc,Ferrari,1,1:21.280,1:21.208,1:20.161
+2022,16,Italian Grand Prix,2022-09-11,Max Verstappen,Red Bull,2,1:20.922,1:21.265,1:20.306
+2022,16,Italian Grand Prix,2022-09-11,Carlos Sainz,Ferrari,3,1:21.348,1:20.878,1:20.429
+2022,16,Italian Grand Prix,2022-09-11,Sergio Pérez,Red Bull,4,1:21.495,1:21.358,1:21.206
+2022,16,Italian Grand Prix,2022-09-11,Lewis Hamilton,Mercedes,5,1:22.048,1:21.708,1:21.524
+2022,16,Italian Grand Prix,2022-09-11,George Russell,Mercedes,6,1:21.785,1:21.747,1:21.542
+2022,16,Italian Grand Prix,2022-09-11,Lando Norris,McLaren,7,1:22.130,1:21.831,1:21.584
+2022,16,Italian Grand Prix,2022-09-11,Daniel Ricciardo,McLaren,8,1:22.139,1:21.855,1:21.925
+2022,16,Italian Grand Prix,2022-09-11,Pierre Gasly,AlphaTauri,9,1:22.010,1:22.062,1:22.648
+2022,16,Italian Grand Prix,2022-09-11,Fernando Alonso,Alpine F1 Team,10,1:22.089,1:21.861,
+2022,16,Italian Grand Prix,2022-09-11,Esteban Ocon,Alpine F1 Team,11,1:22.166,1:22.130,
+2022,16,Italian Grand Prix,2022-09-11,Valtteri Bottas,Alfa Romeo,12,1:22.254,1:22.235,
+2022,16,Italian Grand Prix,2022-09-11,Nyck de Vries,Williams,13,1:22.567,1:22.471,
+2022,16,Italian Grand Prix,2022-09-11,Guanyu Zhou,Alfa Romeo,14,1:22.003,1:22.577,
+2022,16,Italian Grand Prix,2022-09-11,Yuki Tsunoda,AlphaTauri,15,1:22.020,,
+2022,16,Italian Grand Prix,2022-09-11,Nicholas Latifi,Williams,16,1:22.587,,
+2022,16,Italian Grand Prix,2022-09-11,Sebastian Vettel,Aston Martin,17,1:22.636,,
+2022,16,Italian Grand Prix,2022-09-11,Lance Stroll,Aston Martin,18,1:22.748,,
+2022,16,Italian Grand Prix,2022-09-11,Kevin Magnussen,Haas F1 Team,19,1:22.908,,
+2022,16,Italian Grand Prix,2022-09-11,Mick Schumacher,Haas F1 Team,20,1:23.005,,
+2022,17,Singapore Grand Prix,2022-10-02,Charles Leclerc,Ferrari,1,1:54.129,1:52.343,1:49.412
+2022,17,Singapore Grand Prix,2022-10-02,Sergio Pérez,Red Bull,2,1:54.404,1:52.818,1:49.434
+2022,17,Singapore Grand Prix,2022-10-02,Lewis Hamilton,Mercedes,3,1:53.161,1:52.691,1:49.466
+2022,17,Singapore Grand Prix,2022-10-02,Carlos Sainz,Ferrari,4,1:54.559,1:53.219,1:49.583
+2022,17,Singapore Grand Prix,2022-10-02,Fernando Alonso,Alpine F1 Team,5,1:55.360,1:53.127,1:49.966
+2022,17,Singapore Grand Prix,2022-10-02,Lando Norris,McLaren,6,1:55.914,1:53.942,1:50.584
+2022,17,Singapore Grand Prix,2022-10-02,Pierre Gasly,AlphaTauri,7,1:55.606,1:53.546,1:51.211
+2022,17,Singapore Grand Prix,2022-10-02,Max Verstappen,Red Bull,8,1:53.057,1:52.723,1:51.395
+2022,17,Singapore Grand Prix,2022-10-02,Kevin Magnussen,Haas F1 Team,9,1:55.103,1:54.006,1:51.573
+2022,17,Singapore Grand Prix,2022-10-02,Yuki Tsunoda,AlphaTauri,10,1:55.314,1:53.848,1:51.983
+2022,17,Singapore Grand Prix,2022-10-02,George Russell,Mercedes,11,1:54.633,1:54.012,
+2022,17,Singapore Grand Prix,2022-10-02,Lance Stroll,Aston Martin,12,1:55.629,1:54.211,
+2022,17,Singapore Grand Prix,2022-10-02,Mick Schumacher,Haas F1 Team,13,1:55.736,1:54.370,
+2022,17,Singapore Grand Prix,2022-10-02,Sebastian Vettel,Aston Martin,14,1:55.602,1:54.380,
+2022,17,Singapore Grand Prix,2022-10-02,Guanyu Zhou,Alfa Romeo,15,1:55.375,1:55.518,
+2022,17,Singapore Grand Prix,2022-10-02,Valtteri Bottas,Alfa Romeo,16,1:56.083,,
+2022,17,Singapore Grand Prix,2022-10-02,Daniel Ricciardo,McLaren,17,1:56.226,,
+2022,17,Singapore Grand Prix,2022-10-02,Esteban Ocon,Alpine F1 Team,18,1:56.337,,
+2022,17,Singapore Grand Prix,2022-10-02,Alexander Albon,Williams,19,1:56.985,,
+2022,17,Singapore Grand Prix,2022-10-02,Nicholas Latifi,Williams,20,1:57.532,,
+2022,18,Japanese Grand Prix,2022-10-09,Max Verstappen,Red Bull,1,1:30.224,1:30.346,1:29.304
+2022,18,Japanese Grand Prix,2022-10-09,Charles Leclerc,Ferrari,2,1:30.402,1:30.486,1:29.314
+2022,18,Japanese Grand Prix,2022-10-09,Carlos Sainz,Ferrari,3,1:30.336,1:30.444,1:29.361
+2022,18,Japanese Grand Prix,2022-10-09,Sergio Pérez,Red Bull,4,1:30.622,1:29.925,1:29.709
+2022,18,Japanese Grand Prix,2022-10-09,Esteban Ocon,Alpine F1 Team,5,1:30.696,1:30.357,1:30.165
+2022,18,Japanese Grand Prix,2022-10-09,Lewis Hamilton,Mercedes,6,1:30.906,1:30.443,1:30.261
+2022,18,Japanese Grand Prix,2022-10-09,Fernando Alonso,Alpine F1 Team,7,1:30.603,1:30.343,1:30.322
+2022,18,Japanese Grand Prix,2022-10-09,George Russell,Mercedes,8,1:30.865,1:30.465,1:30.389
+2022,18,Japanese Grand Prix,2022-10-09,Sebastian Vettel,Aston Martin,9,1:31.256,1:30.656,1:30.554
+2022,18,Japanese Grand Prix,2022-10-09,Lando Norris,McLaren,10,1:30.881,1:30.473,1:31.003
+2022,18,Japanese Grand Prix,2022-10-09,Daniel Ricciardo,McLaren,11,1:30.880,1:30.659,
+2022,18,Japanese Grand Prix,2022-10-09,Valtteri Bottas,Alfa Romeo,12,1:31.226,1:30.709,
+2022,18,Japanese Grand Prix,2022-10-09,Yuki Tsunoda,AlphaTauri,13,1:31.130,1:30.808,
+2022,18,Japanese Grand Prix,2022-10-09,Guanyu Zhou,Alfa Romeo,14,1:30.894,1:30.953,
+2022,18,Japanese Grand Prix,2022-10-09,Mick Schumacher,Haas F1 Team,15,1:31.152,1:31.439,
+2022,18,Japanese Grand Prix,2022-10-09,Alexander Albon,Williams,16,1:31.311,,
+2022,18,Japanese Grand Prix,2022-10-09,Pierre Gasly,AlphaTauri,17,1:31.322,,
+2022,18,Japanese Grand Prix,2022-10-09,Kevin Magnussen,Haas F1 Team,18,1:31.352,,
+2022,18,Japanese Grand Prix,2022-10-09,Lance Stroll,Aston Martin,19,1:31.419,,
+2022,18,Japanese Grand Prix,2022-10-09,Nicholas Latifi,Williams,20,1:31.511,,
+2022,19,United States Grand Prix,2022-10-23,Carlos Sainz,Ferrari,1,1:35.297,1:35.590,1:34.356
+2022,19,United States Grand Prix,2022-10-23,Charles Leclerc,Ferrari,2,1:35.795,1:35.246,1:34.421
+2022,19,United States Grand Prix,2022-10-23,Max Verstappen,Red Bull,3,1:35.864,1:35.294,1:34.448
+2022,19,United States Grand Prix,2022-10-23,Sergio Pérez,Red Bull,4,1:36.163,1:35.864,1:34.645
+2022,19,United States Grand Prix,2022-10-23,Lewis Hamilton,Mercedes,5,1:36.148,1:35.732,1:34.947
+2022,19,United States Grand Prix,2022-10-23,George Russell,Mercedes,6,1:36.195,1:35.692,1:34.988
+2022,19,United States Grand Prix,2022-10-23,Lance Stroll,Aston Martin,7,1:36.860,1:36.032,1:35.598
+2022,19,United States Grand Prix,2022-10-23,Lando Norris,McLaren,8,1:36.465,1:36.341,1:35.690
+2022,19,United States Grand Prix,2022-10-23,Fernando Alonso,Alpine F1 Team,9,1:36.446,1:35.988,1:35.876
+2022,19,United States Grand Prix,2022-10-23,Valtteri Bottas,Alfa Romeo,10,1:36.746,1:36.321,1:36.319
+2022,19,United States Grand Prix,2022-10-23,Alexander Albon,Williams,11,1:36.932,1:36.368,
+2022,19,United States Grand Prix,2022-10-23,Sebastian Vettel,Aston Martin,12,1:36.695,1:36.398,
+2022,19,United States Grand Prix,2022-10-23,Pierre Gasly,AlphaTauri,13,1:36.577,1:36.740,
+2022,19,United States Grand Prix,2022-10-23,Guanyu Zhou,Alfa Romeo,14,1:36.656,1:36.970,
+2022,19,United States Grand Prix,2022-10-23,Yuki Tsunoda,AlphaTauri,15,1:36.808,1:37.147,
+2022,19,United States Grand Prix,2022-10-23,Kevin Magnussen,Haas F1 Team,16,1:36.949,,
+2022,19,United States Grand Prix,2022-10-23,Daniel Ricciardo,McLaren,17,1:37.046,,
+2022,19,United States Grand Prix,2022-10-23,Esteban Ocon,Alpine F1 Team,18,1:37.068,,
+2022,19,United States Grand Prix,2022-10-23,Mick Schumacher,Haas F1 Team,19,1:37.111,,
+2022,19,United States Grand Prix,2022-10-23,Nicholas Latifi,Williams,20,1:37.244,,
+2022,20,Mexico City Grand Prix,2022-10-30,Max Verstappen,Red Bull,1,1:19.222,1:18.566,1:17.775
+2022,20,Mexico City Grand Prix,2022-10-30,George Russell,Mercedes,2,1:19.583,1:18.565,1:18.079
+2022,20,Mexico City Grand Prix,2022-10-30,Lewis Hamilton,Mercedes,3,1:19.169,1:18.552,1:18.084
+2022,20,Mexico City Grand Prix,2022-10-30,Sergio Pérez,Red Bull,4,1:19.706,1:18.615,1:18.128
+2022,20,Mexico City Grand Prix,2022-10-30,Carlos Sainz,Ferrari,5,1:19.566,1:18.560,1:18.351
+2022,20,Mexico City Grand Prix,2022-10-30,Valtteri Bottas,Alfa Romeo,6,1:19.523,1:18.762,1:18.401
+2022,20,Mexico City Grand Prix,2022-10-30,Charles Leclerc,Ferrari,7,1:19.505,1:19.109,1:18.555
+2022,20,Mexico City Grand Prix,2022-10-30,Lando Norris,McLaren,8,1:19.857,1:19.119,1:18.721
+2022,20,Mexico City Grand Prix,2022-10-30,Fernando Alonso,Alpine F1 Team,9,1:20.006,1:19.272,1:18.939
+2022,20,Mexico City Grand Prix,2022-10-30,Esteban Ocon,Alpine F1 Team,10,1:19.945,1:19.081,1:19.010
+2022,20,Mexico City Grand Prix,2022-10-30,Daniel Ricciardo,McLaren,11,1:20.279,1:19.325,
+2022,20,Mexico City Grand Prix,2022-10-30,Guanyu Zhou,Alfa Romeo,12,1:20.283,1:19.476,
+2022,20,Mexico City Grand Prix,2022-10-30,Yuki Tsunoda,AlphaTauri,13,1:19.907,1:19.589,
+2022,20,Mexico City Grand Prix,2022-10-30,Pierre Gasly,AlphaTauri,14,1:20.256,1:19.672,
+2022,20,Mexico City Grand Prix,2022-10-30,Kevin Magnussen,Haas F1 Team,15,1:20.293,1:19.833,
+2022,20,Mexico City Grand Prix,2022-10-30,Mick Schumacher,Haas F1 Team,16,1:20.419,,
+2022,20,Mexico City Grand Prix,2022-10-30,Sebastian Vettel,Aston Martin,17,1:20.419,,
+2022,20,Mexico City Grand Prix,2022-10-30,Lance Stroll,Aston Martin,18,1:20.520,,
+2022,20,Mexico City Grand Prix,2022-10-30,Alexander Albon,Williams,19,1:20.859,,
+2022,20,Mexico City Grand Prix,2022-10-30,Nicholas Latifi,Williams,20,1:21.167,,
+2022,21,São Paulo Grand Prix,2022-11-13,Kevin Magnussen,Haas F1 Team,1,1:13.954,1:11.410,1:11.674
+2022,21,São Paulo Grand Prix,2022-11-13,Max Verstappen,Red Bull,2,1:13.625,1:10.881,1:11.877
+2022,21,São Paulo Grand Prix,2022-11-13,George Russell,Mercedes,3,1:14.427,1:11.318,1:12.059
+2022,21,São Paulo Grand Prix,2022-11-13,Lando Norris,McLaren,4,1:13.106,1:11.377,1:12.263
+2022,21,São Paulo Grand Prix,2022-11-13,Carlos Sainz,Ferrari,5,1:14.680,1:10.890,1:12.357
+2022,21,São Paulo Grand Prix,2022-11-13,Esteban Ocon,Alpine F1 Team,6,1:14.663,1:11.587,1:12.425
+2022,21,São Paulo Grand Prix,2022-11-13,Fernando Alonso,Alpine F1 Team,7,1:13.542,1:11.394,1:12.504
+2022,21,São Paulo Grand Prix,2022-11-13,Lewis Hamilton,Mercedes,8,1:13.403,1:11.539,1:12.611
+2022,21,São Paulo Grand Prix,2022-11-13,Sergio Pérez,Red Bull,9,1:13.613,1:11.456,1:15.601
+2022,21,São Paulo Grand Prix,2022-11-13,Charles Leclerc,Ferrari,10,1:14.486,1:10.950,
+2022,21,São Paulo Grand Prix,2022-11-13,Alexander Albon,Williams,11,1:14.324,1:11.631,
+2022,21,São Paulo Grand Prix,2022-11-13,Pierre Gasly,AlphaTauri,12,1:14.371,1:11.675,
+2022,21,São Paulo Grand Prix,2022-11-13,Sebastian Vettel,Aston Martin,13,1:13.597,1:11.678,
+2022,21,São Paulo Grand Prix,2022-11-13,Daniel Ricciardo,McLaren,14,1:14.931,1:12.140,
+2022,21,São Paulo Grand Prix,2022-11-13,Lance Stroll,Aston Martin,15,1:14.398,1:12.210,
+2022,21,São Paulo Grand Prix,2022-11-13,Nicholas Latifi,Williams,16,1:15.095,,
+2022,21,São Paulo Grand Prix,2022-11-13,Guanyu Zhou,Alfa Romeo,17,1:15.197,,
+2022,21,São Paulo Grand Prix,2022-11-13,Valtteri Bottas,Alfa Romeo,18,1:15.486,,
+2022,21,São Paulo Grand Prix,2022-11-13,Yuki Tsunoda,AlphaTauri,19,1:16.264,,
+2022,21,São Paulo Grand Prix,2022-11-13,Mick Schumacher,Haas F1 Team,20,1:16.361,,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Max Verstappen,Red Bull,1,1:24.754,1:24.622,1:23.824
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Sergio Pérez,Red Bull,2,1:24.820,1:24.419,1:24.052
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Charles Leclerc,Ferrari,3,1:25.211,1:24.517,1:24.092
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Carlos Sainz,Ferrari,4,1:25.090,1:24.521,1:24.242
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Lewis Hamilton,Mercedes,5,1:25.594,1:24.774,1:24.508
+2022,22,Abu Dhabi Grand Prix,2022-11-20,George Russell,Mercedes,6,1:25.545,1:24.940,1:24.511
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Lando Norris,McLaren,7,1:25.387,1:24.903,1:24.769
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Esteban Ocon,Alpine F1 Team,8,1:25.735,1:25.007,1:24.830
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Sebastian Vettel,Aston Martin,9,1:25.523,1:24.974,1:24.961
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Daniel Ricciardo,McLaren,10,1:25.766,1:25.068,1:25.045
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Fernando Alonso,Alpine F1 Team,11,1:25.782,1:25.096,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Yuki Tsunoda,AlphaTauri,12,1:25.630,1:25.219,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Mick Schumacher,Haas F1 Team,13,1:25.711,1:25.225,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Lance Stroll,Aston Martin,14,1:25.741,1:25.359,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Guanyu Zhou,Alfa Romeo,15,1:25.594,1:25.408,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Kevin Magnussen,Haas F1 Team,16,1:25.834,,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Pierre Gasly,AlphaTauri,17,1:25.859,,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Valtteri Bottas,Alfa Romeo,18,1:25.892,,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Alexander Albon,Williams,19,1:26.028,,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,Nicholas Latifi,Williams,20,1:26.054,,

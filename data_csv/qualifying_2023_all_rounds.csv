@@ -1,0 +1,441 @@
+year,round,raceName,date,driverName,constructorName,position,Q1,Q2,Q3
+2023,1,Bahrain Grand Prix,2023-03-05,Max Verstappen,Red Bull,1,1:31.295,1:30.503,1:29.708
+2023,1,Bahrain Grand Prix,2023-03-05,Sergio Pérez,Red Bull,2,1:31.479,1:30.746,1:29.846
+2023,1,Bahrain Grand Prix,2023-03-05,Charles Leclerc,Ferrari,3,1:31.094,1:30.282,1:30.000
+2023,1,Bahrain Grand Prix,2023-03-05,Carlos Sainz,Ferrari,4,1:30.993,1:30.515,1:30.154
+2023,1,Bahrain Grand Prix,2023-03-05,Fernando Alonso,Aston Martin,5,1:31.158,1:30.645,1:30.336
+2023,1,Bahrain Grand Prix,2023-03-05,George Russell,Mercedes,6,1:31.057,1:30.507,1:30.340
+2023,1,Bahrain Grand Prix,2023-03-05,Lewis Hamilton,Mercedes,7,1:31.543,1:30.513,1:30.384
+2023,1,Bahrain Grand Prix,2023-03-05,Lance Stroll,Aston Martin,8,1:31.184,1:31.127,1:30.836
+2023,1,Bahrain Grand Prix,2023-03-05,Esteban Ocon,Alpine F1 Team,9,1:31.508,1:30.914,1:30.984
+2023,1,Bahrain Grand Prix,2023-03-05,Nico Hülkenberg,Haas F1 Team,10,1:31.204,1:30.809,
+2023,1,Bahrain Grand Prix,2023-03-05,Lando Norris,McLaren,11,1:31.652,1:31.381,
+2023,1,Bahrain Grand Prix,2023-03-05,Valtteri Bottas,Alfa Romeo,12,1:31.504,1:31.443,
+2023,1,Bahrain Grand Prix,2023-03-05,Guanyu Zhou,Alfa Romeo,13,1:31.615,1:31.473,
+2023,1,Bahrain Grand Prix,2023-03-05,Yuki Tsunoda,AlphaTauri,14,1:31.400,1:32.510,
+2023,1,Bahrain Grand Prix,2023-03-05,Alexander Albon,Williams,15,1:31.461,,
+2023,1,Bahrain Grand Prix,2023-03-05,Logan Sargeant,Williams,16,1:31.652,,
+2023,1,Bahrain Grand Prix,2023-03-05,Kevin Magnussen,Haas F1 Team,17,1:31.892,,
+2023,1,Bahrain Grand Prix,2023-03-05,Oscar Piastri,McLaren,18,1:32.101,,
+2023,1,Bahrain Grand Prix,2023-03-05,Nyck de Vries,AlphaTauri,19,1:32.121,,
+2023,1,Bahrain Grand Prix,2023-03-05,Pierre Gasly,Alpine F1 Team,20,1:32.181,,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Sergio Pérez,Red Bull,1,1:29.244,1:28.635,1:28.265
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Charles Leclerc,Ferrari,2,1:29.376,1:28.903,1:28.420
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Fernando Alonso,Aston Martin,3,1:29.298,1:28.757,1:28.730
+2023,2,Saudi Arabian Grand Prix,2023-03-19,George Russell,Mercedes,4,1:29.592,1:29.132,1:28.857
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Carlos Sainz,Ferrari,5,1:29.411,1:28.957,1:28.931
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Lance Stroll,Aston Martin,6,1:29.335,1:28.962,1:28.945
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Esteban Ocon,Alpine F1 Team,7,1:29.707,1:29.255,1:29.078
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Lewis Hamilton,Mercedes,8,1:29.689,1:29.374,1:29.223
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Oscar Piastri,McLaren,9,1:29.706,1:29.378,1:29.243
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Pierre Gasly,Alpine F1 Team,10,1:29.890,1:29.411,1:29.357
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Nico Hülkenberg,Haas F1 Team,11,1:29.547,1:29.451,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Guanyu Zhou,Alfa Romeo,12,1:29.654,1:29.461,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Kevin Magnussen,Haas F1 Team,13,1:29.744,1:29.634,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Valtteri Bottas,Alfa Romeo,14,1:29.929,1:29.668,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Max Verstappen,Red Bull,15,1:28.761,1:49.953,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Yuki Tsunoda,AlphaTauri,16,1:29.939,,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Alexander Albon,Williams,17,1:29.994,,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Nyck de Vries,AlphaTauri,18,1:30.244,,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Lando Norris,McLaren,19,1:30.447,,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Logan Sargeant,Williams,20,2:08.510,,
+2023,3,Australian Grand Prix,2023-04-02,Max Verstappen,Red Bull,1,1:17.384,1:17.056,1:16.732
+2023,3,Australian Grand Prix,2023-04-02,George Russell,Mercedes,2,1:17.654,1:17.513,1:16.968
+2023,3,Australian Grand Prix,2023-04-02,Lewis Hamilton,Mercedes,3,1:17.689,1:17.551,1:17.104
+2023,3,Australian Grand Prix,2023-04-02,Fernando Alonso,Aston Martin,4,1:17.832,1:17.283,1:17.139
+2023,3,Australian Grand Prix,2023-04-02,Carlos Sainz,Ferrari,5,1:17.928,1:17.349,1:17.270
+2023,3,Australian Grand Prix,2023-04-02,Lance Stroll,Aston Martin,6,1:17.873,1:17.616,1:17.308
+2023,3,Australian Grand Prix,2023-04-02,Charles Leclerc,Ferrari,7,1:18.218,1:17.390,1:17.369
+2023,3,Australian Grand Prix,2023-04-02,Alexander Albon,Williams,8,1:17.962,1:17.761,1:17.609
+2023,3,Australian Grand Prix,2023-04-02,Pierre Gasly,Alpine F1 Team,9,1:18.312,1:17.574,1:17.675
+2023,3,Australian Grand Prix,2023-04-02,Nico Hülkenberg,Haas F1 Team,10,1:18.029,1:17.412,1:17.735
+2023,3,Australian Grand Prix,2023-04-02,Esteban Ocon,Alpine F1 Team,11,1:17.770,1:17.768,
+2023,3,Australian Grand Prix,2023-04-02,Yuki Tsunoda,AlphaTauri,12,1:18.471,1:18.099,
+2023,3,Australian Grand Prix,2023-04-02,Lando Norris,McLaren,13,1:18.243,1:18.119,
+2023,3,Australian Grand Prix,2023-04-02,Kevin Magnussen,Haas F1 Team,14,1:18.159,1:18.129,
+2023,3,Australian Grand Prix,2023-04-02,Nyck de Vries,AlphaTauri,15,1:18.450,1:18.335,
+2023,3,Australian Grand Prix,2023-04-02,Oscar Piastri,McLaren,16,1:18.517,,
+2023,3,Australian Grand Prix,2023-04-02,Guanyu Zhou,Alfa Romeo,17,1:18.540,,
+2023,3,Australian Grand Prix,2023-04-02,Logan Sargeant,Williams,18,1:18.557,,
+2023,3,Australian Grand Prix,2023-04-02,Valtteri Bottas,Alfa Romeo,19,1:18.714,,
+2023,3,Australian Grand Prix,2023-04-02,Sergio Pérez,Red Bull,20,,,
+2023,4,Azerbaijan Grand Prix,2023-04-30,Charles Leclerc,Ferrari,1,1:41.269,1:41.037,1:40.203
+2023,4,Azerbaijan Grand Prix,2023-04-30,Max Verstappen,Red Bull,2,1:41.398,1:40.822,1:40.391
+2023,4,Azerbaijan Grand Prix,2023-04-30,Sergio Pérez,Red Bull,3,1:41.756,1:41.131,1:40.495
+2023,4,Azerbaijan Grand Prix,2023-04-30,Carlos Sainz,Ferrari,4,1:42.197,1:41.369,1:41.016
+2023,4,Azerbaijan Grand Prix,2023-04-30,Lewis Hamilton,Mercedes,5,1:42.113,1:41.650,1:41.177
+2023,4,Azerbaijan Grand Prix,2023-04-30,Fernando Alonso,Aston Martin,6,1:41.720,1:41.370,1:41.253
+2023,4,Azerbaijan Grand Prix,2023-04-30,Lando Norris,McLaren,7,1:42.154,1:41.485,1:41.281
+2023,4,Azerbaijan Grand Prix,2023-04-30,Yuki Tsunoda,AlphaTauri,8,1:42.234,1:41.569,1:41.581
+2023,4,Azerbaijan Grand Prix,2023-04-30,Lance Stroll,Aston Martin,9,1:42.524,1:41.576,1:41.611
+2023,4,Azerbaijan Grand Prix,2023-04-30,Oscar Piastri,McLaren,10,1:42.455,1:41.636,1:41.611
+2023,4,Azerbaijan Grand Prix,2023-04-30,George Russell,Mercedes,11,1:42.073,1:41.654,
+2023,4,Azerbaijan Grand Prix,2023-04-30,Esteban Ocon,Alpine F1 Team,12,1:42.622,1:41.798,
+2023,4,Azerbaijan Grand Prix,2023-04-30,Alexander Albon,Williams,13,1:42.171,1:41.818,
+2023,4,Azerbaijan Grand Prix,2023-04-30,Valtteri Bottas,Alfa Romeo,14,1:42.582,1:42.259,
+2023,4,Azerbaijan Grand Prix,2023-04-30,Logan Sargeant,Williams,15,1:42.242,1:42.395,
+2023,4,Azerbaijan Grand Prix,2023-04-30,Guanyu Zhou,Alfa Romeo,16,1:42.642,,
+2023,4,Azerbaijan Grand Prix,2023-04-30,Nico Hülkenberg,Haas F1 Team,17,1:42.755,,
+2023,4,Azerbaijan Grand Prix,2023-04-30,Kevin Magnussen,Haas F1 Team,18,1:43.417,,
+2023,4,Azerbaijan Grand Prix,2023-04-30,Pierre Gasly,Alpine F1 Team,19,1:44.853,,
+2023,4,Azerbaijan Grand Prix,2023-04-30,Nyck de Vries,AlphaTauri,20,,,
+2023,5,Miami Grand Prix,2023-05-07,Sergio Pérez,Red Bull,1,1:27.713,1:27.328,1:26.841
+2023,5,Miami Grand Prix,2023-05-07,Fernando Alonso,Aston Martin,2,1:28.179,1:27.097,1:27.202
+2023,5,Miami Grand Prix,2023-05-07,Carlos Sainz,Ferrari,3,1:27.686,1:27.148,1:27.349
+2023,5,Miami Grand Prix,2023-05-07,Kevin Magnussen,Haas F1 Team,4,1:27.809,1:27.673,1:27.767
+2023,5,Miami Grand Prix,2023-05-07,Pierre Gasly,Alpine F1 Team,5,1:28.061,1:27.612,1:27.786
+2023,5,Miami Grand Prix,2023-05-07,George Russell,Mercedes,6,1:28.086,1:27.743,1:27.804
+2023,5,Miami Grand Prix,2023-05-07,Charles Leclerc,Ferrari,7,1:27.713,1:26.964,1:27.861
+2023,5,Miami Grand Prix,2023-05-07,Esteban Ocon,Alpine F1 Team,8,1:27.872,1:27.444,1:27.935
+2023,5,Miami Grand Prix,2023-05-07,Max Verstappen,Red Bull,9,1:27.363,1:26.814,
+2023,5,Miami Grand Prix,2023-05-07,Valtteri Bottas,Alfa Romeo,10,1:27.864,1:27.564,
+2023,5,Miami Grand Prix,2023-05-07,Alexander Albon,Williams,11,1:28.234,1:27.795,
+2023,5,Miami Grand Prix,2023-05-07,Nico Hülkenberg,Haas F1 Team,12,1:27.945,1:27.903,
+2023,5,Miami Grand Prix,2023-05-07,Lewis Hamilton,Mercedes,13,1:27.846,1:27.975,
+2023,5,Miami Grand Prix,2023-05-07,Guanyu Zhou,Alfa Romeo,14,1:28.180,1:28.091,
+2023,5,Miami Grand Prix,2023-05-07,Nyck de Vries,AlphaTauri,15,1:28.325,1:28.395,
+2023,5,Miami Grand Prix,2023-05-07,Lando Norris,McLaren,16,1:28.394,,
+2023,5,Miami Grand Prix,2023-05-07,Yuki Tsunoda,AlphaTauri,17,1:28.429,,
+2023,5,Miami Grand Prix,2023-05-07,Lance Stroll,Aston Martin,18,1:28.476,,
+2023,5,Miami Grand Prix,2023-05-07,Oscar Piastri,McLaren,19,1:28.484,,
+2023,5,Miami Grand Prix,2023-05-07,Logan Sargeant,Williams,20,1:28.577,,
+2023,6,Monaco Grand Prix,2023-05-28,Max Verstappen,Red Bull,1,1:12.386,1:11.908,1:11.365
+2023,6,Monaco Grand Prix,2023-05-28,Fernando Alonso,Aston Martin,2,1:12.886,1:12.107,1:11.449
+2023,6,Monaco Grand Prix,2023-05-28,Charles Leclerc,Ferrari,3,1:12.912,1:12.103,1:11.471
+2023,6,Monaco Grand Prix,2023-05-28,Esteban Ocon,Alpine F1 Team,4,1:12.967,1:12.248,1:11.553
+2023,6,Monaco Grand Prix,2023-05-28,Carlos Sainz,Ferrari,5,1:12.717,1:12.210,1:11.630
+2023,6,Monaco Grand Prix,2023-05-28,Lewis Hamilton,Mercedes,6,1:12.872,1:12.156,1:11.725
+2023,6,Monaco Grand Prix,2023-05-28,Pierre Gasly,Alpine F1 Team,7,1:13.033,1:12.169,1:11.933
+2023,6,Monaco Grand Prix,2023-05-28,George Russell,Mercedes,8,1:12.769,1:12.151,1:11.964
+2023,6,Monaco Grand Prix,2023-05-28,Yuki Tsunoda,AlphaTauri,9,1:12.642,1:12.249,1:12.082
+2023,6,Monaco Grand Prix,2023-05-28,Lando Norris,McLaren,10,1:12.877,1:12.377,1:12.254
+2023,6,Monaco Grand Prix,2023-05-28,Oscar Piastri,McLaren,11,1:13.006,1:12.395,
+2023,6,Monaco Grand Prix,2023-05-28,Nyck de Vries,AlphaTauri,12,1:13.054,1:12.428,
+2023,6,Monaco Grand Prix,2023-05-28,Alexander Albon,Williams,13,1:12.706,1:12.527,
+2023,6,Monaco Grand Prix,2023-05-28,Lance Stroll,Aston Martin,14,1:12.722,1:12.623,
+2023,6,Monaco Grand Prix,2023-05-28,Valtteri Bottas,Alfa Romeo,15,1:13.038,1:12.625,
+2023,6,Monaco Grand Prix,2023-05-28,Logan Sargeant,Williams,16,1:13.113,,
+2023,6,Monaco Grand Prix,2023-05-28,Kevin Magnussen,Haas F1 Team,17,1:13.270,,
+2023,6,Monaco Grand Prix,2023-05-28,Nico Hülkenberg,Haas F1 Team,18,1:13.279,,
+2023,6,Monaco Grand Prix,2023-05-28,Guanyu Zhou,Alfa Romeo,19,1:13.523,,
+2023,6,Monaco Grand Prix,2023-05-28,Sergio Pérez,Red Bull,20,1:13.850,,
+2023,7,Spanish Grand Prix,2023-06-04,Max Verstappen,Red Bull,1,1:13.615,1:12.760,1:12.272
+2023,7,Spanish Grand Prix,2023-06-04,Carlos Sainz,Ferrari,2,1:13.411,1:12.790,1:12.734
+2023,7,Spanish Grand Prix,2023-06-04,Lando Norris,McLaren,3,1:13.295,1:12.776,1:12.792
+2023,7,Spanish Grand Prix,2023-06-04,Pierre Gasly,Alpine F1 Team,4,1:13.471,1:13.186,1:12.816
+2023,7,Spanish Grand Prix,2023-06-04,Lewis Hamilton,Mercedes,5,1:12.937,1:12.999,1:12.818
+2023,7,Spanish Grand Prix,2023-06-04,Lance Stroll,Aston Martin,6,1:13.766,1:13.082,1:12.994
+2023,7,Spanish Grand Prix,2023-06-04,Esteban Ocon,Alpine F1 Team,7,1:13.433,1:13.001,1:13.083
+2023,7,Spanish Grand Prix,2023-06-04,Nico Hülkenberg,Haas F1 Team,8,1:13.420,1:13.283,1:13.229
+2023,7,Spanish Grand Prix,2023-06-04,Fernando Alonso,Aston Martin,9,1:13.747,1:13.098,1:13.507
+2023,7,Spanish Grand Prix,2023-06-04,Oscar Piastri,McLaren,10,1:13.691,1:13.059,1:13.682
+2023,7,Spanish Grand Prix,2023-06-04,Sergio Pérez,Red Bull,11,1:13.874,1:13.334,
+2023,7,Spanish Grand Prix,2023-06-04,George Russell,Mercedes,12,1:13.326,1:13.447,
+2023,7,Spanish Grand Prix,2023-06-04,Guanyu Zhou,Alfa Romeo,13,1:13.677,1:13.521,
+2023,7,Spanish Grand Prix,2023-06-04,Nyck de Vries,AlphaTauri,14,1:13.581,1:14.083,
+2023,7,Spanish Grand Prix,2023-06-04,Yuki Tsunoda,AlphaTauri,15,1:13.862,1:14.477,
+2023,7,Spanish Grand Prix,2023-06-04,Valtteri Bottas,Alfa Romeo,16,1:13.977,,
+2023,7,Spanish Grand Prix,2023-06-04,Kevin Magnussen,Haas F1 Team,17,1:14.042,,
+2023,7,Spanish Grand Prix,2023-06-04,Alexander Albon,Williams,18,1:14.063,,
+2023,7,Spanish Grand Prix,2023-06-04,Charles Leclerc,Ferrari,19,1:14.079,,
+2023,7,Spanish Grand Prix,2023-06-04,Logan Sargeant,Williams,20,1:14.699,,
+2023,8,Canadian Grand Prix,2023-06-18,Max Verstappen,Red Bull,1,1:20.851,1:19.092,1:25.858
+2023,8,Canadian Grand Prix,2023-06-18,Nico Hülkenberg,Haas F1 Team,2,1:22.730,1:20.305,1:27.102
+2023,8,Canadian Grand Prix,2023-06-18,Fernando Alonso,Aston Martin,3,1:21.481,1:19.776,1:27.286
+2023,8,Canadian Grand Prix,2023-06-18,Lewis Hamilton,Mercedes,4,1:21.554,1:20.426,1:27.627
+2023,8,Canadian Grand Prix,2023-06-18,George Russell,Mercedes,5,1:21.798,1:20.098,1:27.893
+2023,8,Canadian Grand Prix,2023-06-18,Esteban Ocon,Alpine F1 Team,6,1:22.114,1:20.406,1:27.945
+2023,8,Canadian Grand Prix,2023-06-18,Lando Norris,McLaren,7,1:21.998,1:19.347,1:28.046
+2023,8,Canadian Grand Prix,2023-06-18,Carlos Sainz,Ferrari,8,1:22.248,1:19.856,1:29.294
+2023,8,Canadian Grand Prix,2023-06-18,Oscar Piastri,McLaren,9,1:22.190,1:19.659,1:31.349
+2023,8,Canadian Grand Prix,2023-06-18,Alexander Albon,Williams,10,1:21.938,1:18.725,
+2023,8,Canadian Grand Prix,2023-06-18,Charles Leclerc,Ferrari,11,1:21.843,1:20.615,
+2023,8,Canadian Grand Prix,2023-06-18,Sergio Pérez,Red Bull,12,1:22.151,1:20.959,
+2023,8,Canadian Grand Prix,2023-06-18,Lance Stroll,Aston Martin,13,1:22.677,1:21.484,
+2023,8,Canadian Grand Prix,2023-06-18,Kevin Magnussen,Haas F1 Team,14,1:22.351,1:21.678,
+2023,8,Canadian Grand Prix,2023-06-18,Valtteri Bottas,Alfa Romeo,15,1:22.332,1:21.821,
+2023,8,Canadian Grand Prix,2023-06-18,Yuki Tsunoda,AlphaTauri,16,1:22.746,,
+2023,8,Canadian Grand Prix,2023-06-18,Pierre Gasly,Alpine F1 Team,17,1:22.886,,
+2023,8,Canadian Grand Prix,2023-06-18,Nyck de Vries,AlphaTauri,18,1:23.137,,
+2023,8,Canadian Grand Prix,2023-06-18,Logan Sargeant,Williams,19,1:23.337,,
+2023,8,Canadian Grand Prix,2023-06-18,Guanyu Zhou,Alfa Romeo,20,1:23.342,,
+2023,9,Austrian Grand Prix,2023-07-02,Max Verstappen,Red Bull,1,1:05.116,1:04.951,1:04.391
+2023,9,Austrian Grand Prix,2023-07-02,Charles Leclerc,Ferrari,2,1:05.577,1:05.087,1:04.439
+2023,9,Austrian Grand Prix,2023-07-02,Carlos Sainz,Ferrari,3,1:05.339,1:04.975,1:04.581
+2023,9,Austrian Grand Prix,2023-07-02,Lando Norris,McLaren,4,1:05.617,1:05.038,1:04.658
+2023,9,Austrian Grand Prix,2023-07-02,Lewis Hamilton,Mercedes,5,1:05.673,1:05.188,1:04.819
+2023,9,Austrian Grand Prix,2023-07-02,Lance Stroll,Aston Martin,6,1:05.710,1:05.121,1:04.893
+2023,9,Austrian Grand Prix,2023-07-02,Fernando Alonso,Aston Martin,7,1:05.655,1:05.181,1:04.911
+2023,9,Austrian Grand Prix,2023-07-02,Nico Hülkenberg,Haas F1 Team,8,1:05.740,1:05.362,1:05.090
+2023,9,Austrian Grand Prix,2023-07-02,Pierre Gasly,Alpine F1 Team,9,1:05.515,1:05.308,1:05.170
+2023,9,Austrian Grand Prix,2023-07-02,Alexander Albon,Williams,10,1:05.673,1:05.387,1:05.823
+2023,9,Austrian Grand Prix,2023-07-02,George Russell,Mercedes,11,1:05.686,1:05.428,
+2023,9,Austrian Grand Prix,2023-07-02,Esteban Ocon,Alpine F1 Team,12,1:05.729,1:05.453,
+2023,9,Austrian Grand Prix,2023-07-02,Oscar Piastri,McLaren,13,1:05.683,1:05.605,
+2023,9,Austrian Grand Prix,2023-07-02,Valtteri Bottas,Alfa Romeo,14,1:05.763,1:05.680,
+2023,9,Austrian Grand Prix,2023-07-02,Sergio Pérez,Red Bull,15,1:05.177,2:06.688,
+2023,9,Austrian Grand Prix,2023-07-02,Yuki Tsunoda,AlphaTauri,16,1:05.784,,
+2023,9,Austrian Grand Prix,2023-07-02,Guanyu Zhou,Alfa Romeo,17,1:05.818,,
+2023,9,Austrian Grand Prix,2023-07-02,Logan Sargeant,Williams,18,1:05.948,,
+2023,9,Austrian Grand Prix,2023-07-02,Kevin Magnussen,Haas F1 Team,19,1:05.971,,
+2023,9,Austrian Grand Prix,2023-07-02,Nyck de Vries,AlphaTauri,20,1:05.974,,
+2023,10,British Grand Prix,2023-07-09,Max Verstappen,Red Bull,1,1:29.428,1:27.702,1:26.720
+2023,10,British Grand Prix,2023-07-09,Lando Norris,McLaren,2,1:28.917,1:28.042,1:26.961
+2023,10,British Grand Prix,2023-07-09,Oscar Piastri,McLaren,3,1:29.874,1:27.845,1:27.092
+2023,10,British Grand Prix,2023-07-09,Charles Leclerc,Ferrari,4,1:29.143,1:28.361,1:27.136
+2023,10,British Grand Prix,2023-07-09,Carlos Sainz,Ferrari,5,1:29.865,1:28.265,1:27.148
+2023,10,British Grand Prix,2023-07-09,George Russell,Mercedes,6,1:29.412,1:28.782,1:27.155
+2023,10,British Grand Prix,2023-07-09,Lewis Hamilton,Mercedes,7,1:29.415,1:28.545,1:27.211
+2023,10,British Grand Prix,2023-07-09,Alexander Albon,Williams,8,1:29.466,1:28.067,1:27.530
+2023,10,British Grand Prix,2023-07-09,Fernando Alonso,Aston Martin,9,1:29.949,1:28.368,1:27.659
+2023,10,British Grand Prix,2023-07-09,Pierre Gasly,Alpine F1 Team,10,1:29.533,1:28.751,1:27.689
+2023,10,British Grand Prix,2023-07-09,Nico Hülkenberg,Haas F1 Team,11,1:29.603,1:28.896,
+2023,10,British Grand Prix,2023-07-09,Lance Stroll,Aston Martin,12,1:29.448,1:28.935,
+2023,10,British Grand Prix,2023-07-09,Esteban Ocon,Alpine F1 Team,13,1:29.700,1:28.956,
+2023,10,British Grand Prix,2023-07-09,Logan Sargeant,Williams,14,1:29.873,1:29.031,
+2023,10,British Grand Prix,2023-07-09,Valtteri Bottas,Alfa Romeo,15,1:29.798,,
+2023,10,British Grand Prix,2023-07-09,Sergio Pérez,Red Bull,16,1:29.968,,
+2023,10,British Grand Prix,2023-07-09,Yuki Tsunoda,AlphaTauri,17,1:30.025,,
+2023,10,British Grand Prix,2023-07-09,Guanyu Zhou,Alfa Romeo,18,1:30.123,,
+2023,10,British Grand Prix,2023-07-09,Nyck de Vries,AlphaTauri,19,1:30.513,,
+2023,10,British Grand Prix,2023-07-09,Kevin Magnussen,Haas F1 Team,20,1:32.378,,
+2023,11,Hungarian Grand Prix,2023-07-23,Lewis Hamilton,Mercedes,1,1:18.577,1:17.427,1:16.609
+2023,11,Hungarian Grand Prix,2023-07-23,Max Verstappen,Red Bull,2,1:18.318,1:17.547,1:16.612
+2023,11,Hungarian Grand Prix,2023-07-23,Lando Norris,McLaren,3,1:18.697,1:17.328,1:16.694
+2023,11,Hungarian Grand Prix,2023-07-23,Oscar Piastri,McLaren,4,1:18.464,1:17.571,1:16.905
+2023,11,Hungarian Grand Prix,2023-07-23,Guanyu Zhou,Alfa Romeo,5,1:18.143,1:17.700,1:16.971
+2023,11,Hungarian Grand Prix,2023-07-23,Charles Leclerc,Ferrari,6,1:18.440,1:17.580,1:16.992
+2023,11,Hungarian Grand Prix,2023-07-23,Valtteri Bottas,Alfa Romeo,7,1:18.775,1:17.563,1:17.034
+2023,11,Hungarian Grand Prix,2023-07-23,Fernando Alonso,Aston Martin,8,1:18.580,1:17.701,1:17.035
+2023,11,Hungarian Grand Prix,2023-07-23,Sergio Pérez,Red Bull,9,1:18.360,1:17.675,1:17.045
+2023,11,Hungarian Grand Prix,2023-07-23,Nico Hülkenberg,Haas F1 Team,10,1:18.695,1:17.652,1:17.186
+2023,11,Hungarian Grand Prix,2023-07-23,Carlos Sainz,Ferrari,11,1:18.393,1:17.703,
+2023,11,Hungarian Grand Prix,2023-07-23,Esteban Ocon,Alpine F1 Team,12,1:18.854,1:17.841,
+2023,11,Hungarian Grand Prix,2023-07-23,Daniel Ricciardo,AlphaTauri,13,1:18.906,1:18.002,
+2023,11,Hungarian Grand Prix,2023-07-23,Lance Stroll,Aston Martin,14,1:18.782,1:18.144,
+2023,11,Hungarian Grand Prix,2023-07-23,Pierre Gasly,Alpine F1 Team,15,1:18.743,1:18.217,
+2023,11,Hungarian Grand Prix,2023-07-23,Alexander Albon,Williams,16,1:18.917,,
+2023,11,Hungarian Grand Prix,2023-07-23,Yuki Tsunoda,AlphaTauri,17,1:18.919,,
+2023,11,Hungarian Grand Prix,2023-07-23,George Russell,Mercedes,18,1:19.027,,
+2023,11,Hungarian Grand Prix,2023-07-23,Kevin Magnussen,Haas F1 Team,19,1:19.206,,
+2023,11,Hungarian Grand Prix,2023-07-23,Logan Sargeant,Williams,20,1:19.248,,
+2023,12,Belgian Grand Prix,2023-07-30,Max Verstappen,Red Bull,1,1:58.515,1:52.784,1:46.168
+2023,12,Belgian Grand Prix,2023-07-30,Charles Leclerc,Ferrari,2,1:58.300,1:52.017,1:46.988
+2023,12,Belgian Grand Prix,2023-07-30,Sergio Pérez,Red Bull,3,1:58.899,1:52.353,1:47.045
+2023,12,Belgian Grand Prix,2023-07-30,Lewis Hamilton,Mercedes,4,1:58.563,1:52.345,1:47.087
+2023,12,Belgian Grand Prix,2023-07-30,Carlos Sainz,Ferrari,5,1:58.688,1:51.711,1:47.152
+2023,12,Belgian Grand Prix,2023-07-30,Oscar Piastri,McLaren,6,1:58.872,1:51.534,1:47.365
+2023,12,Belgian Grand Prix,2023-07-30,Lando Norris,McLaren,7,1:59.981,1:52.252,1:47.669
+2023,12,Belgian Grand Prix,2023-07-30,George Russell,Mercedes,8,1:59.035,1:52.605,1:47.805
+2023,12,Belgian Grand Prix,2023-07-30,Fernando Alonso,Aston Martin,9,1:58.834,1:52.751,1:47.843
+2023,12,Belgian Grand Prix,2023-07-30,Lance Stroll,Aston Martin,10,1:59.663,1:52.193,1:48.841
+2023,12,Belgian Grand Prix,2023-07-30,Yuki Tsunoda,AlphaTauri,11,1:59.044,1:53.148,
+2023,12,Belgian Grand Prix,2023-07-30,Pierre Gasly,Alpine F1 Team,12,1:59.511,1:53.671,
+2023,12,Belgian Grand Prix,2023-07-30,Kevin Magnussen,Haas F1 Team,13,2:00.020,1:54.160,
+2023,12,Belgian Grand Prix,2023-07-30,Valtteri Bottas,Alfa Romeo,14,1:59.484,1:54.694,
+2023,12,Belgian Grand Prix,2023-07-30,Esteban Ocon,Alpine F1 Team,15,1:59.634,1:56.372,
+2023,12,Belgian Grand Prix,2023-07-30,Alexander Albon,Williams,16,2:00.314,,
+2023,12,Belgian Grand Prix,2023-07-30,Guanyu Zhou,Alfa Romeo,17,2:00.832,,
+2023,12,Belgian Grand Prix,2023-07-30,Logan Sargeant,Williams,18,2:01.535,,
+2023,12,Belgian Grand Prix,2023-07-30,Daniel Ricciardo,AlphaTauri,19,2:02.159,,
+2023,12,Belgian Grand Prix,2023-07-30,Nico Hülkenberg,Haas F1 Team,20,2:03.166,,
+2023,13,Dutch Grand Prix,2023-08-27,Max Verstappen,Red Bull,1,1:20.965,1:18.856,1:10.567
+2023,13,Dutch Grand Prix,2023-08-27,Lando Norris,McLaren,2,1:21.276,1:19.769,1:11.104
+2023,13,Dutch Grand Prix,2023-08-27,George Russell,Mercedes,3,1:21.345,1:19.620,1:11.294
+2023,13,Dutch Grand Prix,2023-08-27,Alexander Albon,Williams,4,1:20.939,1:19.399,1:11.419
+2023,13,Dutch Grand Prix,2023-08-27,Fernando Alonso,Aston Martin,5,1:21.840,1:19.429,1:11.506
+2023,13,Dutch Grand Prix,2023-08-27,Carlos Sainz,Ferrari,6,1:21.321,1:19.929,1:11.754
+2023,13,Dutch Grand Prix,2023-08-27,Sergio Pérez,Red Bull,7,1:21.972,1:19.856,1:11.880
+2023,13,Dutch Grand Prix,2023-08-27,Oscar Piastri,McLaren,8,1:21.231,1:19.392,1:11.938
+2023,13,Dutch Grand Prix,2023-08-27,Charles Leclerc,Ferrari,9,1:22.019,1:19.600,1:12.665
+2023,13,Dutch Grand Prix,2023-08-27,Logan Sargeant,Williams,10,1:22.036,1:20.067,1:16.748
+2023,13,Dutch Grand Prix,2023-08-27,Lance Stroll,Aston Martin,11,1:21.570,1:20.121,
+2023,13,Dutch Grand Prix,2023-08-27,Pierre Gasly,Alpine F1 Team,12,1:21.735,1:20.128,
+2023,13,Dutch Grand Prix,2023-08-27,Lewis Hamilton,Mercedes,13,1:21.919,1:20.151,
+2023,13,Dutch Grand Prix,2023-08-27,Yuki Tsunoda,AlphaTauri,14,1:21.781,1:20.230,
+2023,13,Dutch Grand Prix,2023-08-27,Nico Hülkenberg,Haas F1 Team,15,1:21.891,1:20.250,
+2023,13,Dutch Grand Prix,2023-08-27,Guanyu Zhou,Alfa Romeo,16,1:22.067,,
+2023,13,Dutch Grand Prix,2023-08-27,Esteban Ocon,Alpine F1 Team,17,1:22.110,,
+2023,13,Dutch Grand Prix,2023-08-27,Kevin Magnussen,Haas F1 Team,18,1:22.192,,
+2023,13,Dutch Grand Prix,2023-08-27,Valtteri Bottas,Alfa Romeo,19,1:22.260,,
+2023,13,Dutch Grand Prix,2023-08-27,Liam Lawson,AlphaTauri,20,1:23.420,,
+2023,14,Italian Grand Prix,2023-09-03,Carlos Sainz,Ferrari,1,1:21.965,1:20.991,1:20.294
+2023,14,Italian Grand Prix,2023-09-03,Max Verstappen,Red Bull,2,1:21.573,1:20.937,1:20.307
+2023,14,Italian Grand Prix,2023-09-03,Charles Leclerc,Ferrari,3,1:21.788,1:20.977,1:20.361
+2023,14,Italian Grand Prix,2023-09-03,George Russell,Mercedes,4,1:22.148,1:21.382,1:20.671
+2023,14,Italian Grand Prix,2023-09-03,Sergio Pérez,Red Bull,5,1:21.911,1:21.240,1:20.688
+2023,14,Italian Grand Prix,2023-09-03,Alexander Albon,Williams,6,1:21.661,1:21.272,1:20.760
+2023,14,Italian Grand Prix,2023-09-03,Oscar Piastri,McLaren,7,1:22.106,1:21.527,1:20.785
+2023,14,Italian Grand Prix,2023-09-03,Lewis Hamilton,Mercedes,8,1:21.977,1:21.369,1:20.820
+2023,14,Italian Grand Prix,2023-09-03,Lando Norris,McLaren,9,1:21.995,1:21.581,1:20.979
+2023,14,Italian Grand Prix,2023-09-03,Fernando Alonso,Aston Martin,10,1:22.043,1:21.543,1:21.417
+2023,14,Italian Grand Prix,2023-09-03,Yuki Tsunoda,AlphaTauri,11,1:21.852,1:21.594,
+2023,14,Italian Grand Prix,2023-09-03,Liam Lawson,AlphaTauri,12,1:22.112,1:21.758,
+2023,14,Italian Grand Prix,2023-09-03,Nico Hülkenberg,Haas F1 Team,13,1:22.343,1:21.776,
+2023,14,Italian Grand Prix,2023-09-03,Valtteri Bottas,Alfa Romeo,14,1:22.249,1:21.940,
+2023,14,Italian Grand Prix,2023-09-03,Logan Sargeant,Williams,15,1:21.930,1:21.944,
+2023,14,Italian Grand Prix,2023-09-03,Guanyu Zhou,Alfa Romeo,16,1:22.390,,
+2023,14,Italian Grand Prix,2023-09-03,Pierre Gasly,Alpine F1 Team,17,1:22.545,,
+2023,14,Italian Grand Prix,2023-09-03,Esteban Ocon,Alpine F1 Team,18,1:22.548,,
+2023,14,Italian Grand Prix,2023-09-03,Kevin Magnussen,Haas F1 Team,19,1:22.592,,
+2023,14,Italian Grand Prix,2023-09-03,Lance Stroll,Aston Martin,20,1:22.860,,
+2023,15,Singapore Grand Prix,2023-09-17,Carlos Sainz,Ferrari,1,1:32.339,1:31.439,1:30.984
+2023,15,Singapore Grand Prix,2023-09-17,George Russell,Mercedes,2,1:32.331,1:31.743,1:31.056
+2023,15,Singapore Grand Prix,2023-09-17,Charles Leclerc,Ferrari,3,1:32.406,1:32.012,1:31.063
+2023,15,Singapore Grand Prix,2023-09-17,Lando Norris,McLaren,4,1:32.483,1:31.951,1:31.270
+2023,15,Singapore Grand Prix,2023-09-17,Lewis Hamilton,Mercedes,5,1:32.651,1:32.019,1:31.485
+2023,15,Singapore Grand Prix,2023-09-17,Kevin Magnussen,Haas F1 Team,6,1:32.242,1:31.892,1:31.575
+2023,15,Singapore Grand Prix,2023-09-17,Fernando Alonso,Aston Martin,7,1:32.584,1:31.835,1:31.615
+2023,15,Singapore Grand Prix,2023-09-17,Esteban Ocon,Alpine F1 Team,8,1:32.369,1:32.089,1:31.673
+2023,15,Singapore Grand Prix,2023-09-17,Nico Hülkenberg,Haas F1 Team,9,1:32.100,1:31.994,1:31.808
+2023,15,Singapore Grand Prix,2023-09-17,Liam Lawson,AlphaTauri,10,1:32.215,1:32.166,1:32.268
+2023,15,Singapore Grand Prix,2023-09-17,Max Verstappen,Red Bull,11,1:32.398,1:32.173,
+2023,15,Singapore Grand Prix,2023-09-17,Pierre Gasly,Alpine F1 Team,12,1:32.452,1:32.274,
+2023,15,Singapore Grand Prix,2023-09-17,Sergio Pérez,Red Bull,13,1:32.099,1:32.310,
+2023,15,Singapore Grand Prix,2023-09-17,Alexander Albon,Williams,14,1:32.668,1:33.719,
+2023,15,Singapore Grand Prix,2023-09-17,Yuki Tsunoda,AlphaTauri,15,1:31.991,,
+2023,15,Singapore Grand Prix,2023-09-17,Valtteri Bottas,Alfa Romeo,16,1:32.809,,
+2023,15,Singapore Grand Prix,2023-09-17,Oscar Piastri,McLaren,17,1:32.902,,
+2023,15,Singapore Grand Prix,2023-09-17,Logan Sargeant,Williams,18,1:33.252,,
+2023,15,Singapore Grand Prix,2023-09-17,Guanyu Zhou,Alfa Romeo,19,1:33.258,,
+2023,15,Singapore Grand Prix,2023-09-17,Lance Stroll,Aston Martin,20,1:33.397,,
+2023,16,Japanese Grand Prix,2023-09-24,Max Verstappen,Red Bull,1,1:29.878,1:29.964,1:28.877
+2023,16,Japanese Grand Prix,2023-09-24,Oscar Piastri,McLaren,2,1:30.439,1:30.122,1:29.458
+2023,16,Japanese Grand Prix,2023-09-24,Lando Norris,McLaren,3,1:30.063,1:30.296,1:29.493
+2023,16,Japanese Grand Prix,2023-09-24,Charles Leclerc,Ferrari,4,1:30.393,1:29.940,1:29.542
+2023,16,Japanese Grand Prix,2023-09-24,Sergio Pérez,Red Bull,5,1:30.652,1:29.965,1:29.650
+2023,16,Japanese Grand Prix,2023-09-24,Carlos Sainz,Ferrari,6,1:30.651,1:30.067,1:29.850
+2023,16,Japanese Grand Prix,2023-09-24,Lewis Hamilton,Mercedes,7,1:30.811,1:30.040,1:29.908
+2023,16,Japanese Grand Prix,2023-09-24,George Russell,Mercedes,8,1:30.811,1:30.268,1:30.219
+2023,16,Japanese Grand Prix,2023-09-24,Yuki Tsunoda,AlphaTauri,9,1:30.733,1:30.204,1:30.303
+2023,16,Japanese Grand Prix,2023-09-24,Fernando Alonso,Aston Martin,10,1:30.971,1:30.465,1:30.560
+2023,16,Japanese Grand Prix,2023-09-24,Liam Lawson,AlphaTauri,11,1:30.425,1:30.508,
+2023,16,Japanese Grand Prix,2023-09-24,Pierre Gasly,Alpine F1 Team,12,1:30.843,1:30.509,
+2023,16,Japanese Grand Prix,2023-09-24,Alexander Albon,Williams,13,1:30.941,1:30.537,
+2023,16,Japanese Grand Prix,2023-09-24,Esteban Ocon,Alpine F1 Team,14,1:30.960,1:30.586,
+2023,16,Japanese Grand Prix,2023-09-24,Kevin Magnussen,Haas F1 Team,15,1:30.976,1:30.665,
+2023,16,Japanese Grand Prix,2023-09-24,Valtteri Bottas,Alfa Romeo,16,1:31.049,,
+2023,16,Japanese Grand Prix,2023-09-24,Lance Stroll,Aston Martin,17,1:31.181,,
+2023,16,Japanese Grand Prix,2023-09-24,Nico Hülkenberg,Haas F1 Team,18,1:31.299,,
+2023,16,Japanese Grand Prix,2023-09-24,Guanyu Zhou,Alfa Romeo,19,1:31.398,,
+2023,16,Japanese Grand Prix,2023-09-24,Logan Sargeant,Williams,20,,,
+2023,17,Qatar Grand Prix,2023-10-08,Max Verstappen,Red Bull,1,1:25.007,1:24.483,1:23.778
+2023,17,Qatar Grand Prix,2023-10-08,George Russell,Mercedes,2,1:25.334,1:24.827,1:24.219
+2023,17,Qatar Grand Prix,2023-10-08,Lewis Hamilton,Mercedes,3,1:26.076,1:24.381,1:24.305
+2023,17,Qatar Grand Prix,2023-10-08,Fernando Alonso,Aston Martin,4,1:25.223,1:25.241,1:24.369
+2023,17,Qatar Grand Prix,2023-10-08,Charles Leclerc,Ferrari,5,1:25.452,1:25.079,1:24.424
+2023,17,Qatar Grand Prix,2023-10-08,Oscar Piastri,McLaren,6,1:25.266,1:24.724,1:24.540
+2023,17,Qatar Grand Prix,2023-10-08,Pierre Gasly,Alpine F1 Team,7,1:25.566,1:24.918,1:24.553
+2023,17,Qatar Grand Prix,2023-10-08,Esteban Ocon,Alpine F1 Team,8,1:25.711,1:24.928,1:24.763
+2023,17,Qatar Grand Prix,2023-10-08,Valtteri Bottas,Alfa Romeo,9,1:26.038,1:25.297,1:25.058
+2023,17,Qatar Grand Prix,2023-10-08,Lando Norris,McLaren,10,1:25.131,1:24.685,
+2023,17,Qatar Grand Prix,2023-10-08,Yuki Tsunoda,AlphaTauri,11,1:26.058,1:25.301,
+2023,17,Qatar Grand Prix,2023-10-08,Carlos Sainz,Ferrari,12,1:25.808,1:25.328,
+2023,17,Qatar Grand Prix,2023-10-08,Sergio Pérez,Red Bull,13,1:25.991,1:25.462,
+2023,17,Qatar Grand Prix,2023-10-08,Alexander Albon,Williams,14,1:26.118,1:25.707,
+2023,17,Qatar Grand Prix,2023-10-08,Nico Hülkenberg,Haas F1 Team,15,1:25.904,1:25.783,
+2023,17,Qatar Grand Prix,2023-10-08,Logan Sargeant,Williams,16,1:26.210,,
+2023,17,Qatar Grand Prix,2023-10-08,Lance Stroll,Aston Martin,17,1:26.345,,
+2023,17,Qatar Grand Prix,2023-10-08,Liam Lawson,AlphaTauri,18,1:26.635,,
+2023,17,Qatar Grand Prix,2023-10-08,Kevin Magnussen,Haas F1 Team,19,1:27.046,,
+2023,17,Qatar Grand Prix,2023-10-08,Guanyu Zhou,Alfa Romeo,20,1:27.432,,
+2023,18,United States Grand Prix,2023-10-22,Charles Leclerc,Ferrari,1,1:36.061,1:35.004,1:34.723
+2023,18,United States Grand Prix,2023-10-22,Lando Norris,McLaren,2,1:35.110,1:35.441,1:34.853
+2023,18,United States Grand Prix,2023-10-22,Lewis Hamilton,Mercedes,3,1:35.091,1:35.240,1:34.862
+2023,18,United States Grand Prix,2023-10-22,Carlos Sainz,Ferrari,4,1:35.824,1:35.302,1:34.945
+2023,18,United States Grand Prix,2023-10-22,George Russell,Mercedes,5,1:36.165,1:35.606,1:35.079
+2023,18,United States Grand Prix,2023-10-22,Max Verstappen,Red Bull,6,1:35.346,1:35.008,1:35.081
+2023,18,United States Grand Prix,2023-10-22,Pierre Gasly,Alpine F1 Team,7,1:36.158,1:35.496,1:35.089
+2023,18,United States Grand Prix,2023-10-22,Esteban Ocon,Alpine F1 Team,8,1:36.131,1:35.413,1:35.154
+2023,18,United States Grand Prix,2023-10-22,Sergio Pérez,Red Bull,9,1:35.989,1:35.679,1:35.173
+2023,18,United States Grand Prix,2023-10-22,Oscar Piastri,McLaren,10,1:36.064,1:35.576,1:35.467
+2023,18,United States Grand Prix,2023-10-22,Yuki Tsunoda,AlphaTauri,11,1:35.913,1:35.697,
+2023,18,United States Grand Prix,2023-10-22,Guanyu Zhou,Alfa Romeo,12,1:36.052,1:35.698,
+2023,18,United States Grand Prix,2023-10-22,Valtteri Bottas,Alfa Romeo,13,1:36.082,1:35.858,
+2023,18,United States Grand Prix,2023-10-22,Kevin Magnussen,Haas F1 Team,14,1:36.009,1:35.880,
+2023,18,United States Grand Prix,2023-10-22,Daniel Ricciardo,AlphaTauri,15,1:36.213,1:35.974,
+2023,18,United States Grand Prix,2023-10-22,Nico Hülkenberg,Haas F1 Team,16,1:36.235,,
+2023,18,United States Grand Prix,2023-10-22,Fernando Alonso,Aston Martin,17,1:36.268,,
+2023,18,United States Grand Prix,2023-10-22,Alexander Albon,Williams,18,1:36.315,,
+2023,18,United States Grand Prix,2023-10-22,Lance Stroll,Aston Martin,19,1:36.589,,
+2023,18,United States Grand Prix,2023-10-22,Logan Sargeant,Williams,20,1:36.827,,
+2023,19,Mexico City Grand Prix,2023-10-29,Charles Leclerc,Ferrari,1,1:18.401,1:17.901,1:17.166
+2023,19,Mexico City Grand Prix,2023-10-29,Carlos Sainz,Ferrari,2,1:18.755,1:18.382,1:17.233
+2023,19,Mexico City Grand Prix,2023-10-29,Max Verstappen,Red Bull,3,1:18.099,1:17.625,1:17.263
+2023,19,Mexico City Grand Prix,2023-10-29,Daniel Ricciardo,AlphaTauri,4,1:18.341,1:17.706,1:17.382
+2023,19,Mexico City Grand Prix,2023-10-29,Sergio Pérez,Red Bull,5,1:18.553,1:18.124,1:17.423
+2023,19,Mexico City Grand Prix,2023-10-29,Lewis Hamilton,Mercedes,6,1:18.677,1:17.571,1:17.454
+2023,19,Mexico City Grand Prix,2023-10-29,Oscar Piastri,McLaren,7,1:18.241,1:17.874,1:17.623
+2023,19,Mexico City Grand Prix,2023-10-29,George Russell,Mercedes,8,1:18.893,1:17.673,1:17.674
+2023,19,Mexico City Grand Prix,2023-10-29,Valtteri Bottas,Alfa Romeo,9,1:18.429,1:18.016,1:18.032
+2023,19,Mexico City Grand Prix,2023-10-29,Guanyu Zhou,Alfa Romeo,10,1:19.016,1:18.440,1:18.050
+2023,19,Mexico City Grand Prix,2023-10-29,Pierre Gasly,Alpine F1 Team,11,1:18.945,1:18.521,
+2023,19,Mexico City Grand Prix,2023-10-29,Nico Hülkenberg,Haas F1 Team,12,1:18.969,1:18.524,
+2023,19,Mexico City Grand Prix,2023-10-29,Fernando Alonso,Aston Martin,13,1:18.848,1:18.738,
+2023,19,Mexico City Grand Prix,2023-10-29,Alexander Albon,Williams,14,1:18.828,1:19.147,
+2023,19,Mexico City Grand Prix,2023-10-29,Yuki Tsunoda,AlphaTauri,15,1:18.890,,
+2023,19,Mexico City Grand Prix,2023-10-29,Esteban Ocon,Alpine F1 Team,16,1:19.080,,
+2023,19,Mexico City Grand Prix,2023-10-29,Kevin Magnussen,Haas F1 Team,17,1:19.163,,
+2023,19,Mexico City Grand Prix,2023-10-29,Lance Stroll,Aston Martin,18,1:19.227,,
+2023,19,Mexico City Grand Prix,2023-10-29,Lando Norris,McLaren,19,1:21.554,,
+2023,19,Mexico City Grand Prix,2023-10-29,Logan Sargeant,Williams,20,,,
+2023,20,São Paulo Grand Prix,2023-11-05,Max Verstappen,Red Bull,1,1:10.436,1:10.162,1:10.727
+2023,20,São Paulo Grand Prix,2023-11-05,Charles Leclerc,Ferrari,2,1:10.472,1:10.303,1:11.021
+2023,20,São Paulo Grand Prix,2023-11-05,Lance Stroll,Aston Martin,3,1:10.551,1:10.375,1:11.344
+2023,20,São Paulo Grand Prix,2023-11-05,Fernando Alonso,Aston Martin,4,1:10.557,1:10.237,1:11.387
+2023,20,São Paulo Grand Prix,2023-11-05,Lewis Hamilton,Mercedes,5,1:10.604,1:10.266,1:11.469
+2023,20,São Paulo Grand Prix,2023-11-05,George Russell,Mercedes,6,1:10.340,1:10.316,1:11.590
+2023,20,São Paulo Grand Prix,2023-11-05,Lando Norris,McLaren,7,1:10.623,1:10.021,1:11.987
+2023,20,São Paulo Grand Prix,2023-11-05,Carlos Sainz,Ferrari,8,1:10.624,1:10.254,1:11.989
+2023,20,São Paulo Grand Prix,2023-11-05,Sergio Pérez,Red Bull,9,1:10.668,1:10.219,1:12.321
+2023,20,São Paulo Grand Prix,2023-11-05,Oscar Piastri,McLaren,10,1:10.519,1:10.330,
+2023,20,São Paulo Grand Prix,2023-11-05,Nico Hülkenberg,Haas F1 Team,11,1:10.475,1:10.547,
+2023,20,São Paulo Grand Prix,2023-11-05,Esteban Ocon,Alpine F1 Team,12,1:10.763,1:10.562,
+2023,20,São Paulo Grand Prix,2023-11-05,Pierre Gasly,Alpine F1 Team,13,1:10.793,1:10.567,
+2023,20,São Paulo Grand Prix,2023-11-05,Kevin Magnussen,Haas F1 Team,14,1:10.602,1:10.723,
+2023,20,São Paulo Grand Prix,2023-11-05,Alexander Albon,Williams,15,1:10.621,1:10.840,
+2023,20,São Paulo Grand Prix,2023-11-05,Yuki Tsunoda,AlphaTauri,16,1:10.837,,
+2023,20,São Paulo Grand Prix,2023-11-05,Daniel Ricciardo,AlphaTauri,17,1:10.843,,
+2023,20,São Paulo Grand Prix,2023-11-05,Valtteri Bottas,Alfa Romeo,18,1:10.955,,
+2023,20,São Paulo Grand Prix,2023-11-05,Logan Sargeant,Williams,19,1:11.035,,
+2023,20,São Paulo Grand Prix,2023-11-05,Guanyu Zhou,Alfa Romeo,20,1:11.275,,
+2023,21,Las Vegas Grand Prix,2023-11-19,Charles Leclerc,Ferrari,1,1:33.617,1:32.775,1:32.726
+2023,21,Las Vegas Grand Prix,2023-11-19,Carlos Sainz,Ferrari,2,1:33.851,1:33.338,1:32.770
+2023,21,Las Vegas Grand Prix,2023-11-19,Max Verstappen,Red Bull,3,1:34.190,1:33.572,1:33.104
+2023,21,Las Vegas Grand Prix,2023-11-19,George Russell,Mercedes,4,1:34.137,1:33.351,1:33.112
+2023,21,Las Vegas Grand Prix,2023-11-19,Pierre Gasly,Alpine F1 Team,5,1:34.272,1:33.494,1:33.239
+2023,21,Las Vegas Grand Prix,2023-11-19,Alexander Albon,Williams,6,1:34.634,1:33.588,1:33.323
+2023,21,Las Vegas Grand Prix,2023-11-19,Logan Sargeant,Williams,7,1:34.525,1:33.733,1:33.513
+2023,21,Las Vegas Grand Prix,2023-11-19,Valtteri Bottas,Alfa Romeo,8,1:34.305,1:33.809,1:33.525
+2023,21,Las Vegas Grand Prix,2023-11-19,Kevin Magnussen,Haas F1 Team,9,1:34.337,1:33.664,1:33.537
+2023,21,Las Vegas Grand Prix,2023-11-19,Fernando Alonso,Aston Martin,10,1:34.422,1:33.617,1:33.555
+2023,21,Las Vegas Grand Prix,2023-11-19,Lewis Hamilton,Mercedes,11,1:34.307,1:33.837,
+2023,21,Las Vegas Grand Prix,2023-11-19,Sergio Pérez,Red Bull,12,1:34.574,1:33.855,
+2023,21,Las Vegas Grand Prix,2023-11-19,Nico Hülkenberg,Haas F1 Team,13,1:34.265,1:33.979,
+2023,21,Las Vegas Grand Prix,2023-11-19,Lance Stroll,Aston Martin,14,1:34.504,1:34.199,
+2023,21,Las Vegas Grand Prix,2023-11-19,Daniel Ricciardo,AlphaTauri,15,1:34.683,1:34.308,
+2023,21,Las Vegas Grand Prix,2023-11-19,Lando Norris,McLaren,16,1:34.703,,
+2023,21,Las Vegas Grand Prix,2023-11-19,Esteban Ocon,Alpine F1 Team,17,1:34.834,,
+2023,21,Las Vegas Grand Prix,2023-11-19,Guanyu Zhou,Alfa Romeo,18,1:34.849,,
+2023,21,Las Vegas Grand Prix,2023-11-19,Oscar Piastri,McLaren,19,1:34.850,,
+2023,21,Las Vegas Grand Prix,2023-11-19,Yuki Tsunoda,AlphaTauri,20,1:36.447,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Max Verstappen,Red Bull,1,1:24.160,1:23.740,1:23.445
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Charles Leclerc,Ferrari,2,1:24.459,1:23.969,1:23.584
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Oscar Piastri,McLaren,3,1:24.487,1:24.278,1:23.782
+2023,22,Abu Dhabi Grand Prix,2023-11-26,George Russell,Mercedes,4,1:24.337,1:24.013,1:23.788
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Lando Norris,McLaren,5,1:24.368,1:23.920,1:23.816
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Yuki Tsunoda,AlphaTauri,6,1:24.286,1:24.207,1:23.968
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Fernando Alonso,Aston Martin,7,1:24.501,1:24.131,1:24.084
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Nico Hülkenberg,Haas F1 Team,8,1:24.425,1:24.213,1:24.108
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Sergio Pérez,Red Bull,9,1:24.209,1:24.116,1:24.171
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Pierre Gasly,Alpine F1 Team,10,1:24.600,1:24.078,1:24.548
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Lewis Hamilton,Mercedes,11,1:24.437,1:24.359,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Esteban Ocon,Alpine F1 Team,12,1:24.565,1:24.391,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Lance Stroll,Aston Martin,13,1:24.405,1:24.422,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Alexander Albon,Williams,14,1:24.298,1:24.439,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Daniel Ricciardo,AlphaTauri,15,1:24.461,1:24.442,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Carlos Sainz,Ferrari,16,1:24.738,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Kevin Magnussen,Haas F1 Team,17,1:24.764,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Valtteri Bottas,Alfa Romeo,18,1:24.788,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Guanyu Zhou,Alfa Romeo,19,1:25.159,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,Logan Sargeant,Williams,20,,,

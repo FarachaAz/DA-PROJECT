@@ -1,0 +1,480 @@
+year,round,raceName,date,driverName,constructorName,position,Q1,Q2,Q3
+2024,1,Bahrain Grand Prix,2024-03-02,Max Verstappen,Red Bull,1,1:30.031,1:29.374,1:29.179
+2024,1,Bahrain Grand Prix,2024-03-02,Charles Leclerc,Ferrari,2,1:30.243,1:29.165,1:29.407
+2024,1,Bahrain Grand Prix,2024-03-02,George Russell,Mercedes,3,1:30.350,1:29.922,1:29.485
+2024,1,Bahrain Grand Prix,2024-03-02,Carlos Sainz,Ferrari,4,1:29.909,1:29.573,1:29.507
+2024,1,Bahrain Grand Prix,2024-03-02,Sergio Pérez,Red Bull,5,1:30.221,1:29.932,1:29.537
+2024,1,Bahrain Grand Prix,2024-03-02,Fernando Alonso,Aston Martin,6,1:30.179,1:29.801,1:29.542
+2024,1,Bahrain Grand Prix,2024-03-02,Lando Norris,McLaren,7,1:30.143,1:29.941,1:29.614
+2024,1,Bahrain Grand Prix,2024-03-02,Oscar Piastri,McLaren,8,1:30.531,1:30.122,1:29.683
+2024,1,Bahrain Grand Prix,2024-03-02,Lewis Hamilton,Mercedes,9,1:30.451,1:29.718,1:29.710
+2024,1,Bahrain Grand Prix,2024-03-02,Nico Hülkenberg,Haas F1 Team,10,1:30.566,1:29.851,1:30.502
+2024,1,Bahrain Grand Prix,2024-03-02,Yuki Tsunoda,RB F1 Team,11,1:30.481,1:30.129,
+2024,1,Bahrain Grand Prix,2024-03-02,Lance Stroll,Aston Martin,12,1:29.965,1:30.200,
+2024,1,Bahrain Grand Prix,2024-03-02,Alexander Albon,Williams,13,1:30.397,1:30.221,
+2024,1,Bahrain Grand Prix,2024-03-02,Daniel Ricciardo,RB F1 Team,14,1:30.562,1:30.278,
+2024,1,Bahrain Grand Prix,2024-03-02,Kevin Magnussen,Haas F1 Team,15,1:30.646,1:30.529,
+2024,1,Bahrain Grand Prix,2024-03-02,Valtteri Bottas,Sauber,16,1:30.756,,
+2024,1,Bahrain Grand Prix,2024-03-02,Guanyu Zhou,Sauber,17,1:30.757,,
+2024,1,Bahrain Grand Prix,2024-03-02,Logan Sargeant,Williams,18,1:30.770,,
+2024,1,Bahrain Grand Prix,2024-03-02,Esteban Ocon,Alpine F1 Team,19,1:30.793,,
+2024,1,Bahrain Grand Prix,2024-03-02,Pierre Gasly,Alpine F1 Team,20,1:30.948,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Max Verstappen,Red Bull,1,1:28.171,1:28.033,1:27.472
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Charles Leclerc,Ferrari,2,1:28.318,1:28.112,1:27.791
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Sergio Pérez,Red Bull,3,1:28.638,1:28.467,1:27.807
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Fernando Alonso,Aston Martin,4,1:28.706,1:28.122,1:27.846
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Oscar Piastri,McLaren,5,1:28.755,1:28.343,1:28.089
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Lando Norris,McLaren,6,1:28.805,1:28.479,1:28.132
+2024,2,Saudi Arabian Grand Prix,2024-03-09,George Russell,Mercedes,7,1:28.749,1:28.448,1:28.316
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Lewis Hamilton,Mercedes,8,1:28.994,1:28.606,1:28.460
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Yuki Tsunoda,RB F1 Team,9,1:28.988,1:28.564,1:28.547
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Lance Stroll,Aston Martin,10,1:28.250,1:28.578,1:28.572
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Oliver Bearman,Ferrari,11,1:28.984,1:28.642,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Alexander Albon,Williams,12,1:29.107,1:28.980,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Kevin Magnussen,Haas F1 Team,13,1:29.069,1:29.020,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Daniel Ricciardo,RB F1 Team,14,1:29.065,1:29.025,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Nico Hülkenberg,Haas F1 Team,15,1:29.055,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Valtteri Bottas,Sauber,16,1:29.179,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Esteban Ocon,Alpine F1 Team,17,1:29.475,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Pierre Gasly,Alpine F1 Team,18,1:29.479,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Logan Sargeant,Williams,19,1:29.526,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Guanyu Zhou,Sauber,20,,,
+2024,3,Australian Grand Prix,2024-03-24,Max Verstappen,Red Bull,1,1:16.819,1:16.387,1:15.915
+2024,3,Australian Grand Prix,2024-03-24,Carlos Sainz,Ferrari,2,1:16.731,1:16.189,1:16.185
+2024,3,Australian Grand Prix,2024-03-24,Sergio Pérez,Red Bull,3,1:16.805,1:16.631,1:16.274
+2024,3,Australian Grand Prix,2024-03-24,Lando Norris,McLaren,4,1:17.430,1:16.750,1:16.315
+2024,3,Australian Grand Prix,2024-03-24,Charles Leclerc,Ferrari,5,1:16.984,1:16.304,1:16.435
+2024,3,Australian Grand Prix,2024-03-24,Oscar Piastri,McLaren,6,1:17.369,1:16.601,1:16.572
+2024,3,Australian Grand Prix,2024-03-24,George Russell,Mercedes,7,1:17.062,1:16.901,1:16.724
+2024,3,Australian Grand Prix,2024-03-24,Yuki Tsunoda,RB F1 Team,8,1:17.356,1:16.791,1:16.788
+2024,3,Australian Grand Prix,2024-03-24,Lance Stroll,Aston Martin,9,1:17.376,1:16.780,1:17.072
+2024,3,Australian Grand Prix,2024-03-24,Fernando Alonso,Aston Martin,10,1:16.991,1:16.710,1:17.552
+2024,3,Australian Grand Prix,2024-03-24,Lewis Hamilton,Mercedes,11,1:17.499,1:16.960,
+2024,3,Australian Grand Prix,2024-03-24,Alexander Albon,Williams,12,1:17.130,1:17.167,
+2024,3,Australian Grand Prix,2024-03-24,Valtteri Bottas,Sauber,13,1:17.543,1:17.340,
+2024,3,Australian Grand Prix,2024-03-24,Kevin Magnussen,Haas F1 Team,14,1:17.709,1:17.427,
+2024,3,Australian Grand Prix,2024-03-24,Esteban Ocon,Alpine F1 Team,15,1:17.617,1:17.697,
+2024,3,Australian Grand Prix,2024-03-24,Nico Hülkenberg,Haas F1 Team,16,1:17.976,,
+2024,3,Australian Grand Prix,2024-03-24,Pierre Gasly,Alpine F1 Team,17,1:17.982,,
+2024,3,Australian Grand Prix,2024-03-24,Daniel Ricciardo,RB F1 Team,18,1:18.085,,
+2024,3,Australian Grand Prix,2024-03-24,Guanyu Zhou,Sauber,19,1:18.188,,
+2024,4,Japanese Grand Prix,2024-04-07,Max Verstappen,Red Bull,1,1:28.866,1:28.740,1:28.197
+2024,4,Japanese Grand Prix,2024-04-07,Sergio Pérez,Red Bull,2,1:29.303,1:28.752,1:28.263
+2024,4,Japanese Grand Prix,2024-04-07,Lando Norris,McLaren,3,1:29.536,1:28.940,1:28.489
+2024,4,Japanese Grand Prix,2024-04-07,Carlos Sainz,Ferrari,4,1:29.513,1:29.099,1:28.682
+2024,4,Japanese Grand Prix,2024-04-07,Fernando Alonso,Aston Martin,5,1:29.254,1:29.082,1:28.686
+2024,4,Japanese Grand Prix,2024-04-07,Oscar Piastri,McLaren,6,1:29.425,1:29.148,1:28.760
+2024,4,Japanese Grand Prix,2024-04-07,Lewis Hamilton,Mercedes,7,1:29.661,1:28.887,1:28.766
+2024,4,Japanese Grand Prix,2024-04-07,Charles Leclerc,Ferrari,8,1:29.338,1:29.196,1:28.786
+2024,4,Japanese Grand Prix,2024-04-07,George Russell,Mercedes,9,1:29.799,1:29.140,1:29.008
+2024,4,Japanese Grand Prix,2024-04-07,Yuki Tsunoda,RB F1 Team,10,1:29.775,1:29.417,1:29.413
+2024,4,Japanese Grand Prix,2024-04-07,Daniel Ricciardo,RB F1 Team,11,1:29.727,1:29.472,
+2024,4,Japanese Grand Prix,2024-04-07,Nico Hülkenberg,Haas F1 Team,12,1:29.821,1:29.494,
+2024,4,Japanese Grand Prix,2024-04-07,Valtteri Bottas,Sauber,13,1:29.602,1:29.593,
+2024,4,Japanese Grand Prix,2024-04-07,Alexander Albon,Williams,14,1:29.963,1:29.714,
+2024,4,Japanese Grand Prix,2024-04-07,Esteban Ocon,Alpine F1 Team,15,1:29.811,1:29.816,
+2024,4,Japanese Grand Prix,2024-04-07,Lance Stroll,Aston Martin,16,1:30.024,,
+2024,4,Japanese Grand Prix,2024-04-07,Pierre Gasly,Alpine F1 Team,17,1:30.119,,
+2024,4,Japanese Grand Prix,2024-04-07,Kevin Magnussen,Haas F1 Team,18,1:30.131,,
+2024,4,Japanese Grand Prix,2024-04-07,Logan Sargeant,Williams,19,1:30.139,,
+2024,4,Japanese Grand Prix,2024-04-07,Guanyu Zhou,Sauber,20,1:30.143,,
+2024,5,Chinese Grand Prix,2024-04-21,Max Verstappen,Red Bull,1,1:34.742,1:33.794,1:33.660
+2024,5,Chinese Grand Prix,2024-04-21,Sergio Pérez,Red Bull,2,1:35.457,1:34.026,1:33.982
+2024,5,Chinese Grand Prix,2024-04-21,Fernando Alonso,Aston Martin,3,1:35.116,1:34.652,1:34.148
+2024,5,Chinese Grand Prix,2024-04-21,Lando Norris,McLaren,4,1:34.842,1:34.460,1:34.165
+2024,5,Chinese Grand Prix,2024-04-21,Oscar Piastri,McLaren,5,1:35.014,1:34.659,1:34.273
+2024,5,Chinese Grand Prix,2024-04-21,Charles Leclerc,Ferrari,6,1:34.797,1:34.399,1:34.289
+2024,5,Chinese Grand Prix,2024-04-21,Carlos Sainz,Ferrari,7,1:34.970,1:34.368,1:34.297
+2024,5,Chinese Grand Prix,2024-04-21,George Russell,Mercedes,8,1:35.084,1:34.609,1:34.433
+2024,5,Chinese Grand Prix,2024-04-21,Nico Hülkenberg,Haas F1 Team,9,1:35.068,1:34.667,1:34.604
+2024,5,Chinese Grand Prix,2024-04-21,Valtteri Bottas,Sauber,10,1:35.169,1:34.769,1:34.665
+2024,5,Chinese Grand Prix,2024-04-21,Lance Stroll,Aston Martin,11,1:35.334,1:34.838,
+2024,5,Chinese Grand Prix,2024-04-21,Daniel Ricciardo,RB F1 Team,12,1:35.443,1:34.934,
+2024,5,Chinese Grand Prix,2024-04-21,Esteban Ocon,Alpine F1 Team,13,1:35.356,1:35.223,
+2024,5,Chinese Grand Prix,2024-04-21,Alexander Albon,Williams,14,1:35.384,1:35.241,
+2024,5,Chinese Grand Prix,2024-04-21,Pierre Gasly,Alpine F1 Team,15,1:35.287,1:35.463,
+2024,5,Chinese Grand Prix,2024-04-21,Guanyu Zhou,Sauber,16,1:35.505,,
+2024,5,Chinese Grand Prix,2024-04-21,Kevin Magnussen,Haas F1 Team,17,1:35.516,,
+2024,5,Chinese Grand Prix,2024-04-21,Lewis Hamilton,Mercedes,18,1:35.573,,
+2024,5,Chinese Grand Prix,2024-04-21,Yuki Tsunoda,RB F1 Team,19,1:35.746,,
+2024,5,Chinese Grand Prix,2024-04-21,Logan Sargeant,Williams,20,1:36.358,,
+2024,6,Miami Grand Prix,2024-05-05,Max Verstappen,Red Bull,1,1:27.689,1:27.566,1:27.241
+2024,6,Miami Grand Prix,2024-05-05,Charles Leclerc,Ferrari,2,1:28.081,1:27.533,1:27.382
+2024,6,Miami Grand Prix,2024-05-05,Carlos Sainz,Ferrari,3,1:27.937,1:27.941,1:27.455
+2024,6,Miami Grand Prix,2024-05-05,Sergio Pérez,Red Bull,4,1:27.772,1:27.839,1:27.460
+2024,6,Miami Grand Prix,2024-05-05,Lando Norris,McLaren,5,1:27.913,1:27.871,1:27.594
+2024,6,Miami Grand Prix,2024-05-05,Oscar Piastri,McLaren,6,1:28.032,1:27.721,1:27.675
+2024,6,Miami Grand Prix,2024-05-05,George Russell,Mercedes,7,1:28.159,1:28.095,1:28.067
+2024,6,Miami Grand Prix,2024-05-05,Lewis Hamilton,Mercedes,8,1:28.167,1:27.697,1:28.107
+2024,6,Miami Grand Prix,2024-05-05,Nico Hülkenberg,Haas F1 Team,9,1:28.383,1:28.200,1:28.146
+2024,6,Miami Grand Prix,2024-05-05,Yuki Tsunoda,RB F1 Team,10,1:28.324,1:28.167,1:28.192
+2024,6,Miami Grand Prix,2024-05-05,Lance Stroll,Aston Martin,11,1:28.177,1:28.222,
+2024,6,Miami Grand Prix,2024-05-05,Pierre Gasly,Alpine F1 Team,12,1:27.976,1:28.324,
+2024,6,Miami Grand Prix,2024-05-05,Esteban Ocon,Alpine F1 Team,13,1:28.209,1:28.371,
+2024,6,Miami Grand Prix,2024-05-05,Alexander Albon,Williams,14,1:28.343,1:28.413,
+2024,6,Miami Grand Prix,2024-05-05,Fernando Alonso,Aston Martin,15,1:28.453,1:28.427,
+2024,6,Miami Grand Prix,2024-05-05,Valtteri Bottas,Sauber,16,1:28.463,,
+2024,6,Miami Grand Prix,2024-05-05,Logan Sargeant,Williams,17,1:28.487,,
+2024,6,Miami Grand Prix,2024-05-05,Daniel Ricciardo,RB F1 Team,18,1:28.617,,
+2024,6,Miami Grand Prix,2024-05-05,Kevin Magnussen,Haas F1 Team,19,1:28.619,,
+2024,6,Miami Grand Prix,2024-05-05,Guanyu Zhou,Sauber,20,1:28.824,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Max Verstappen,Red Bull,1,1:15.762,1:15.176,1:14.746
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Oscar Piastri,McLaren,2,1:15.940,1:15.407,1:14.820
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Lando Norris,McLaren,3,1:15.915,1:15.371,1:14.837
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Charles Leclerc,Ferrari,4,1:15.823,1:15.328,1:14.970
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Carlos Sainz,Ferrari,5,1:16.015,1:15.512,1:15.233
+2024,7,Emilia Romagna Grand Prix,2024-05-19,George Russell,Mercedes,6,1:16.107,1:15.671,1:15.234
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Yuki Tsunoda,RB F1 Team,7,1:15.894,1:15.358,1:15.465
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Lewis Hamilton,Mercedes,8,1:16.604,1:15.677,1:15.504
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Daniel Ricciardo,RB F1 Team,9,1:16.060,1:15.691,1:15.674
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Nico Hülkenberg,Haas F1 Team,10,1:15.841,1:15.569,1:15.980
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Sergio Pérez,Red Bull,11,1:16.404,1:15.706,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Esteban Ocon,Alpine F1 Team,12,1:16.361,1:15.906,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Lance Stroll,Aston Martin,13,1:16.458,1:15.992,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Alexander Albon,Williams,14,1:16.524,1:16.200,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Pierre Gasly,Alpine F1 Team,15,1:16.015,1:16.381,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Valtteri Bottas,Sauber,16,1:16.626,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Guanyu Zhou,Sauber,17,1:16.834,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Kevin Magnussen,Haas F1 Team,18,1:16.854,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Fernando Alonso,Aston Martin,19,1:16.917,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,Logan Sargeant,Williams,20,,,
+2024,8,Monaco Grand Prix,2024-05-26,Charles Leclerc,Ferrari,1,1:11.584,1:10.825,1:10.270
+2024,8,Monaco Grand Prix,2024-05-26,Oscar Piastri,McLaren,2,1:11.500,1:10.756,1:10.424
+2024,8,Monaco Grand Prix,2024-05-26,Carlos Sainz,Ferrari,3,1:11.543,1:11.075,1:10.518
+2024,8,Monaco Grand Prix,2024-05-26,Lando Norris,McLaren,4,1:11.760,1:10.732,1:10.542
+2024,8,Monaco Grand Prix,2024-05-26,George Russell,Mercedes,5,1:11.492,1:10.929,1:10.543
+2024,8,Monaco Grand Prix,2024-05-26,Max Verstappen,Red Bull,6,1:11.711,1:10.745,1:10.567
+2024,8,Monaco Grand Prix,2024-05-26,Lewis Hamilton,Mercedes,7,1:11.528,1:11.056,1:10.621
+2024,8,Monaco Grand Prix,2024-05-26,Yuki Tsunoda,RB F1 Team,8,1:11.852,1:11.106,1:10.858
+2024,8,Monaco Grand Prix,2024-05-26,Alexander Albon,Williams,9,1:11.623,1:11.216,1:10.948
+2024,8,Monaco Grand Prix,2024-05-26,Pierre Gasly,Alpine F1 Team,10,1:11.714,1:10.896,1:11.311
+2024,8,Monaco Grand Prix,2024-05-26,Esteban Ocon,Alpine F1 Team,11,1:11.887,1:11.285,
+2024,8,Monaco Grand Prix,2024-05-26,Nico Hülkenberg,Haas F1 Team,12,1:11.876,1:11.440,
+2024,8,Monaco Grand Prix,2024-05-26,Daniel Ricciardo,RB F1 Team,13,1:11.785,1:11.482,
+2024,8,Monaco Grand Prix,2024-05-26,Lance Stroll,Aston Martin,14,1:11.728,1:11.563,
+2024,8,Monaco Grand Prix,2024-05-26,Kevin Magnussen,Haas F1 Team,15,1:11.832,1:11.725,
+2024,8,Monaco Grand Prix,2024-05-26,Fernando Alonso,Aston Martin,16,1:12.019,,
+2024,8,Monaco Grand Prix,2024-05-26,Logan Sargeant,Williams,17,1:12.020,,
+2024,8,Monaco Grand Prix,2024-05-26,Sergio Pérez,Red Bull,18,1:12.060,,
+2024,8,Monaco Grand Prix,2024-05-26,Valtteri Bottas,Sauber,19,1:12.512,,
+2024,8,Monaco Grand Prix,2024-05-26,Guanyu Zhou,Sauber,20,1:13.028,,
+2024,9,Canadian Grand Prix,2024-06-09,George Russell,Mercedes,1,1:13.013,1:11.742,1:12.000
+2024,9,Canadian Grand Prix,2024-06-09,Max Verstappen,Red Bull,2,1:12.360,1:12.549,1:12.000
+2024,9,Canadian Grand Prix,2024-06-09,Lando Norris,McLaren,3,1:12.959,1:12.201,1:12.021
+2024,9,Canadian Grand Prix,2024-06-09,Oscar Piastri,McLaren,4,1:12.907,1:12.462,1:12.103
+2024,9,Canadian Grand Prix,2024-06-09,Daniel Ricciardo,RB F1 Team,5,1:13.240,1:12.572,1:12.178
+2024,9,Canadian Grand Prix,2024-06-09,Fernando Alonso,Aston Martin,6,1:13.117,1:12.635,1:12.228
+2024,9,Canadian Grand Prix,2024-06-09,Lewis Hamilton,Mercedes,7,1:12.851,1:11.979,1:12.280
+2024,9,Canadian Grand Prix,2024-06-09,Yuki Tsunoda,RB F1 Team,8,1:12.748,1:12.303,1:12.414
+2024,9,Canadian Grand Prix,2024-06-09,Lance Stroll,Aston Martin,9,1:13.088,1:12.659,1:12.701
+2024,9,Canadian Grand Prix,2024-06-09,Alexander Albon,Williams,10,1:12.896,1:12.485,1:12.796
+2024,9,Canadian Grand Prix,2024-06-09,Charles Leclerc,Ferrari,11,1:13.107,1:12.691,
+2024,9,Canadian Grand Prix,2024-06-09,Carlos Sainz,Ferrari,12,1:13.038,1:12.728,
+2024,9,Canadian Grand Prix,2024-06-09,Logan Sargeant,Williams,13,1:13.063,1:12.736,
+2024,9,Canadian Grand Prix,2024-06-09,Kevin Magnussen,Haas F1 Team,14,1:13.217,1:12.916,
+2024,9,Canadian Grand Prix,2024-06-09,Pierre Gasly,Alpine F1 Team,15,1:13.289,1:12.940,
+2024,9,Canadian Grand Prix,2024-06-09,Sergio Pérez,Red Bull,16,1:13.326,,
+2024,9,Canadian Grand Prix,2024-06-09,Valtteri Bottas,Sauber,17,1:13.366,,
+2024,9,Canadian Grand Prix,2024-06-09,Esteban Ocon,Alpine F1 Team,18,1:13.435,,
+2024,9,Canadian Grand Prix,2024-06-09,Nico Hülkenberg,Haas F1 Team,19,1:13.978,,
+2024,9,Canadian Grand Prix,2024-06-09,Guanyu Zhou,Sauber,20,1:14.292,,
+2024,10,Spanish Grand Prix,2024-06-23,Lando Norris,McLaren,1,1:12.386,1:11.872,1:11.383
+2024,10,Spanish Grand Prix,2024-06-23,Max Verstappen,Red Bull,2,1:12.306,1:11.653,1:11.403
+2024,10,Spanish Grand Prix,2024-06-23,Lewis Hamilton,Mercedes,3,1:12.143,1:11.792,1:11.701
+2024,10,Spanish Grand Prix,2024-06-23,George Russell,Mercedes,4,1:12.456,1:11.812,1:11.703
+2024,10,Spanish Grand Prix,2024-06-23,Charles Leclerc,Ferrari,5,1:12.257,1:12.038,1:11.731
+2024,10,Spanish Grand Prix,2024-06-23,Carlos Sainz,Ferrari,6,1:12.403,1:11.874,1:11.736
+2024,10,Spanish Grand Prix,2024-06-23,Pierre Gasly,Alpine F1 Team,7,1:12.651,1:12.079,1:11.857
+2024,10,Spanish Grand Prix,2024-06-23,Sergio Pérez,Red Bull,8,1:12.477,1:12.054,1:12.061
+2024,10,Spanish Grand Prix,2024-06-23,Esteban Ocon,Alpine F1 Team,9,1:12.691,1:12.109,1:12.125
+2024,10,Spanish Grand Prix,2024-06-23,Oscar Piastri,McLaren,10,1:12.460,1:12.011,
+2024,10,Spanish Grand Prix,2024-06-23,Fernando Alonso,Aston Martin,11,1:12.505,1:12.128,
+2024,10,Spanish Grand Prix,2024-06-23,Valtteri Bottas,Sauber,12,1:12.758,1:12.227,
+2024,10,Spanish Grand Prix,2024-06-23,Nico Hülkenberg,Haas F1 Team,13,1:12.708,1:12.310,
+2024,10,Spanish Grand Prix,2024-06-23,Lance Stroll,Aston Martin,14,1:12.881,1:12.372,
+2024,10,Spanish Grand Prix,2024-06-23,Guanyu Zhou,Sauber,15,1:12.880,1:12.738,
+2024,10,Spanish Grand Prix,2024-06-23,Kevin Magnussen,Haas F1 Team,16,1:12.937,,
+2024,10,Spanish Grand Prix,2024-06-23,Yuki Tsunoda,RB F1 Team,17,1:12.985,,
+2024,10,Spanish Grand Prix,2024-06-23,Daniel Ricciardo,RB F1 Team,18,1:13.075,,
+2024,10,Spanish Grand Prix,2024-06-23,Alexander Albon,Williams,19,1:13.153,,
+2024,10,Spanish Grand Prix,2024-06-23,Logan Sargeant,Williams,20,1:13.509,,
+2024,11,Austrian Grand Prix,2024-06-30,Max Verstappen,Red Bull,1,1:05.336,1:04.469,1:04.314
+2024,11,Austrian Grand Prix,2024-06-30,Lando Norris,McLaren,2,1:05.450,1:05.103,1:04.718
+2024,11,Austrian Grand Prix,2024-06-30,George Russell,Mercedes,3,1:05.585,1:05.016,1:04.840
+2024,11,Austrian Grand Prix,2024-06-30,Carlos Sainz,Ferrari,4,1:05.263,1:05.016,1:04.851
+2024,11,Austrian Grand Prix,2024-06-30,Lewis Hamilton,Mercedes,5,1:05.541,1:05.053,1:04.903
+2024,11,Austrian Grand Prix,2024-06-30,Charles Leclerc,Ferrari,6,1:05.509,1:05.104,1:05.044
+2024,11,Austrian Grand Prix,2024-06-30,Oscar Piastri,McLaren,7,1:05.311,1:05.070,1:05.048
+2024,11,Austrian Grand Prix,2024-06-30,Sergio Pérez,Red Bull,8,1:05.587,1:05.144,1:05.202
+2024,11,Austrian Grand Prix,2024-06-30,Nico Hülkenberg,Haas F1 Team,9,1:05.596,1:05.262,1:05.385
+2024,11,Austrian Grand Prix,2024-06-30,Esteban Ocon,Alpine F1 Team,10,1:05.574,1:05.274,1:05.883
+2024,11,Austrian Grand Prix,2024-06-30,Daniel Ricciardo,RB F1 Team,11,1:05.569,1:05.289,
+2024,11,Austrian Grand Prix,2024-06-30,Kevin Magnussen,Haas F1 Team,12,1:05.508,1:05.347,
+2024,11,Austrian Grand Prix,2024-06-30,Pierre Gasly,Alpine F1 Team,13,1:05.598,1:05.359,
+2024,11,Austrian Grand Prix,2024-06-30,Yuki Tsunoda,RB F1 Team,14,1:05.563,1:05.412,
+2024,11,Austrian Grand Prix,2024-06-30,Fernando Alonso,Aston Martin,15,1:05.656,1:05.639,
+2024,11,Austrian Grand Prix,2024-06-30,Alexander Albon,Williams,16,1:05.736,,
+2024,11,Austrian Grand Prix,2024-06-30,Lance Stroll,Aston Martin,17,1:05.819,,
+2024,11,Austrian Grand Prix,2024-06-30,Valtteri Bottas,Sauber,18,1:05.847,,
+2024,11,Austrian Grand Prix,2024-06-30,Logan Sargeant,Williams,19,1:05.856,,
+2024,11,Austrian Grand Prix,2024-06-30,Guanyu Zhou,Sauber,20,1:06.061,,
+2024,12,British Grand Prix,2024-07-07,George Russell,Mercedes,1,1:30.106,1:26.723,1:25.819
+2024,12,British Grand Prix,2024-07-07,Lewis Hamilton,Mercedes,2,1:29.547,1:26.770,1:25.990
+2024,12,British Grand Prix,2024-07-07,Lando Norris,McLaren,3,1:31.596,1:26.559,1:26.030
+2024,12,British Grand Prix,2024-07-07,Max Verstappen,Red Bull,4,1:31.342,1:26.796,1:26.203
+2024,12,British Grand Prix,2024-07-07,Oscar Piastri,McLaren,5,1:30.895,1:26.733,1:26.237
+2024,12,British Grand Prix,2024-07-07,Nico Hülkenberg,Haas F1 Team,6,1:31.929,1:26.847,1:26.338
+2024,12,British Grand Prix,2024-07-07,Carlos Sainz,Ferrari,7,1:30.557,1:26.843,1:26.509
+2024,12,British Grand Prix,2024-07-07,Lance Stroll,Aston Martin,8,1:31.410,1:26.938,1:26.585
+2024,12,British Grand Prix,2024-07-07,Alexander Albon,Williams,9,1:31.135,1:26.933,1:26.640
+2024,12,British Grand Prix,2024-07-07,Fernando Alonso,Aston Martin,10,1:31.264,1:26.730,1:26.917
+2024,12,British Grand Prix,2024-07-07,Charles Leclerc,Ferrari,11,1:30.496,1:27.097,
+2024,12,British Grand Prix,2024-07-07,Logan Sargeant,Williams,12,1:31.608,1:27.175,
+2024,12,British Grand Prix,2024-07-07,Yuki Tsunoda,RB F1 Team,13,1:30.994,1:27.269,
+2024,12,British Grand Prix,2024-07-07,Guanyu Zhou,Sauber,14,1:31.190,1:27.867,
+2024,12,British Grand Prix,2024-07-07,Daniel Ricciardo,RB F1 Team,15,1:31.291,1:27.949,
+2024,12,British Grand Prix,2024-07-07,Valtteri Bottas,Sauber,16,1:32.431,,
+2024,12,British Grand Prix,2024-07-07,Kevin Magnussen,Haas F1 Team,17,1:32.905,,
+2024,12,British Grand Prix,2024-07-07,Esteban Ocon,Alpine F1 Team,18,1:34.557,,
+2024,12,British Grand Prix,2024-07-07,Sergio Pérez,Red Bull,19,1:38.348,,
+2024,12,British Grand Prix,2024-07-07,Pierre Gasly,Alpine F1 Team,20,1:39.804,,
+2024,13,Hungarian Grand Prix,2024-07-21,Lando Norris,McLaren,1,1:17.755,1:15.540,1:15.227
+2024,13,Hungarian Grand Prix,2024-07-21,Oscar Piastri,McLaren,2,1:17.504,1:15.785,1:15.249
+2024,13,Hungarian Grand Prix,2024-07-21,Max Verstappen,Red Bull,3,1:17.087,1:15.770,1:15.273
+2024,13,Hungarian Grand Prix,2024-07-21,Carlos Sainz,Ferrari,4,1:17.244,1:15.885,1:15.696
+2024,13,Hungarian Grand Prix,2024-07-21,Lewis Hamilton,Mercedes,5,1:17.087,1:16.307,1:15.854
+2024,13,Hungarian Grand Prix,2024-07-21,Charles Leclerc,Ferrari,6,1:17.437,1:15.891,1:15.905
+2024,13,Hungarian Grand Prix,2024-07-21,Fernando Alonso,Aston Martin,7,1:17.624,1:16.117,1:16.043
+2024,13,Hungarian Grand Prix,2024-07-21,Lance Stroll,Aston Martin,8,1:17.405,1:16.075,1:16.244
+2024,13,Hungarian Grand Prix,2024-07-21,Daniel Ricciardo,RB F1 Team,9,1:17.050,1:16.202,1:16.447
+2024,13,Hungarian Grand Prix,2024-07-21,Yuki Tsunoda,RB F1 Team,10,1:17.436,1:16.121,1:16.477
+2024,13,Hungarian Grand Prix,2024-07-21,Nico Hülkenberg,Haas F1 Team,11,1:17.362,1:16.317,
+2024,13,Hungarian Grand Prix,2024-07-21,Valtteri Bottas,Sauber,12,1:17.487,1:16.384,
+2024,13,Hungarian Grand Prix,2024-07-21,Alexander Albon,Williams,13,1:17.280,1:16.429,
+2024,13,Hungarian Grand Prix,2024-07-21,Logan Sargeant,Williams,14,1:17.770,1:16.543,
+2024,13,Hungarian Grand Prix,2024-07-21,Kevin Magnussen,Haas F1 Team,15,1:17.851,1:16.548,
+2024,13,Hungarian Grand Prix,2024-07-21,Sergio Pérez,Red Bull,16,1:17.886,,
+2024,13,Hungarian Grand Prix,2024-07-21,George Russell,Mercedes,17,1:17.968,,
+2024,13,Hungarian Grand Prix,2024-07-21,Guanyu Zhou,Sauber,18,1:18.037,,
+2024,13,Hungarian Grand Prix,2024-07-21,Esteban Ocon,Alpine F1 Team,19,1:18.049,,
+2024,13,Hungarian Grand Prix,2024-07-21,Pierre Gasly,Alpine F1 Team,20,1:18.166,,
+2024,14,Belgian Grand Prix,2024-07-28,Max Verstappen,Red Bull,1,1:54.938,1:53.837,1:53.159
+2024,14,Belgian Grand Prix,2024-07-28,Charles Leclerc,Ferrari,2,1:55.349,1:54.193,1:53.754
+2024,14,Belgian Grand Prix,2024-07-28,Sergio Pérez,Red Bull,3,1:55.139,1:54.470,1:53.765
+2024,14,Belgian Grand Prix,2024-07-28,Lewis Hamilton,Mercedes,4,1:55.692,1:54.037,1:53.835
+2024,14,Belgian Grand Prix,2024-07-28,Lando Norris,McLaren,5,1:55.582,1:54.358,1:53.981
+2024,14,Belgian Grand Prix,2024-07-28,Oscar Piastri,McLaren,6,1:54.835,1:54.136,1:54.027
+2024,14,Belgian Grand Prix,2024-07-28,George Russell,Mercedes,7,1:55.353,1:54.095,1:54.184
+2024,14,Belgian Grand Prix,2024-07-28,Carlos Sainz,Ferrari,8,1:55.169,1:54.112,1:54.477
+2024,14,Belgian Grand Prix,2024-07-28,Fernando Alonso,Aston Martin,9,1:55.489,1:54.258,1:54.765
+2024,14,Belgian Grand Prix,2024-07-28,Esteban Ocon,Alpine F1 Team,10,1:55.417,1:54.460,1:54.810
+2024,14,Belgian Grand Prix,2024-07-28,Alexander Albon,Williams,11,1:55.722,1:54.473,
+2024,14,Belgian Grand Prix,2024-07-28,Pierre Gasly,Alpine F1 Team,12,1:54.911,1:54.635,
+2024,14,Belgian Grand Prix,2024-07-28,Daniel Ricciardo,RB F1 Team,13,1:55.451,1:54.682,
+2024,14,Belgian Grand Prix,2024-07-28,Valtteri Bottas,Sauber,14,1:55.531,1:54.764,
+2024,14,Belgian Grand Prix,2024-07-28,Lance Stroll,Aston Martin,15,1:56.072,1:55.716,
+2024,14,Belgian Grand Prix,2024-07-28,Nico Hülkenberg,Haas F1 Team,16,1:56.308,,
+2024,14,Belgian Grand Prix,2024-07-28,Kevin Magnussen,Haas F1 Team,17,1:56.500,,
+2024,14,Belgian Grand Prix,2024-07-28,Yuki Tsunoda,RB F1 Team,18,1:56.593,,
+2024,14,Belgian Grand Prix,2024-07-28,Logan Sargeant,Williams,19,1:57.230,,
+2024,14,Belgian Grand Prix,2024-07-28,Guanyu Zhou,Sauber,20,1:57.775,,
+2024,15,Dutch Grand Prix,2024-08-25,Lando Norris,McLaren,1,1:11.377,1:10.496,1:09.673
+2024,15,Dutch Grand Prix,2024-08-25,Max Verstappen,Red Bull,2,1:11.393,1:10.811,1:10.029
+2024,15,Dutch Grand Prix,2024-08-25,Oscar Piastri,McLaren,3,1:11.541,1:10.505,1:10.172
+2024,15,Dutch Grand Prix,2024-08-25,George Russell,Mercedes,4,1:11.049,1:10.552,1:10.244
+2024,15,Dutch Grand Prix,2024-08-25,Sergio Pérez,Red Bull,5,1:11.006,1:10.678,1:10.416
+2024,15,Dutch Grand Prix,2024-08-25,Charles Leclerc,Ferrari,6,1:11.370,1:10.689,1:10.582
+2024,15,Dutch Grand Prix,2024-08-25,Fernando Alonso,Aston Martin,7,1:11.493,1:10.845,1:10.633
+2024,15,Dutch Grand Prix,2024-08-25,Lance Stroll,Aston Martin,8,1:11.518,1:10.661,1:10.857
+2024,15,Dutch Grand Prix,2024-08-25,Pierre Gasly,Alpine F1 Team,9,1:11.718,1:10.815,1:10.977
+2024,15,Dutch Grand Prix,2024-08-25,Carlos Sainz,Ferrari,10,1:11.327,1:10.914,
+2024,15,Dutch Grand Prix,2024-08-25,Lewis Hamilton,Mercedes,11,1:11.375,1:10.948,
+2024,15,Dutch Grand Prix,2024-08-25,Yuki Tsunoda,RB F1 Team,12,1:11.603,1:10.955,
+2024,15,Dutch Grand Prix,2024-08-25,Nico Hülkenberg,Haas F1 Team,13,1:11.832,1:11.215,
+2024,15,Dutch Grand Prix,2024-08-25,Kevin Magnussen,Haas F1 Team,14,1:11.630,1:11.295,
+2024,15,Dutch Grand Prix,2024-08-25,Daniel Ricciardo,RB F1 Team,15,1:11.943,,
+2024,15,Dutch Grand Prix,2024-08-25,Esteban Ocon,Alpine F1 Team,16,1:11.995,,
+2024,15,Dutch Grand Prix,2024-08-25,Valtteri Bottas,Sauber,17,1:12.168,,
+2024,15,Dutch Grand Prix,2024-08-25,Guanyu Zhou,Sauber,18,1:13.261,,
+2024,15,Dutch Grand Prix,2024-08-25,Alexander Albon,Williams,19,,,
+2024,15,Dutch Grand Prix,2024-08-25,Logan Sargeant,Williams,20,,,
+2024,16,Italian Grand Prix,2024-09-01,Lando Norris,McLaren,1,1:19.911,1:19.727,1:19.327
+2024,16,Italian Grand Prix,2024-09-01,Oscar Piastri,McLaren,2,1:20.076,1:19.808,1:19.436
+2024,16,Italian Grand Prix,2024-09-01,George Russell,Mercedes,3,1:20.169,1:19.877,1:19.440
+2024,16,Italian Grand Prix,2024-09-01,Charles Leclerc,Ferrari,4,1:20.074,1:20.007,1:19.461
+2024,16,Italian Grand Prix,2024-09-01,Carlos Sainz,Ferrari,5,1:20.149,1:19.799,1:19.467
+2024,16,Italian Grand Prix,2024-09-01,Lewis Hamilton,Mercedes,6,1:20.477,1:19.641,1:19.513
+2024,16,Italian Grand Prix,2024-09-01,Max Verstappen,Red Bull,7,1:20.226,1:19.662,1:20.022
+2024,16,Italian Grand Prix,2024-09-01,Sergio Pérez,Red Bull,8,1:20.598,1:20.216,1:20.062
+2024,16,Italian Grand Prix,2024-09-01,Alexander Albon,Williams,9,1:20.542,1:20.314,1:20.299
+2024,16,Italian Grand Prix,2024-09-01,Nico Hülkenberg,Haas F1 Team,10,1:20.781,1:20.411,1:20.339
+2024,16,Italian Grand Prix,2024-09-01,Fernando Alonso,Aston Martin,11,1:20.617,1:20.421,
+2024,16,Italian Grand Prix,2024-09-01,Daniel Ricciardo,RB F1 Team,12,1:20.901,1:20.479,
+2024,16,Italian Grand Prix,2024-09-01,Kevin Magnussen,Haas F1 Team,13,1:20.856,1:20.698,
+2024,16,Italian Grand Prix,2024-09-01,Pierre Gasly,Alpine F1 Team,14,1:20.748,1:20.738,
+2024,16,Italian Grand Prix,2024-09-01,Esteban Ocon,Alpine F1 Team,15,1:20.764,1:20.766,
+2024,16,Italian Grand Prix,2024-09-01,Yuki Tsunoda,RB F1 Team,16,1:20.945,,
+2024,16,Italian Grand Prix,2024-09-01,Lance Stroll,Aston Martin,17,1:21.013,,
+2024,16,Italian Grand Prix,2024-09-01,Franco Colapinto,Williams,18,1:21.061,,
+2024,16,Italian Grand Prix,2024-09-01,Valtteri Bottas,Sauber,19,1:21.101,,
+2024,16,Italian Grand Prix,2024-09-01,Guanyu Zhou,Sauber,20,1:21.445,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,Charles Leclerc,Ferrari,1,1:42.775,1:42.056,1:41.365
+2024,17,Azerbaijan Grand Prix,2024-09-15,Oscar Piastri,McLaren,2,1:43.033,1:42.598,1:41.686
+2024,17,Azerbaijan Grand Prix,2024-09-15,Carlos Sainz,Ferrari,3,1:43.357,1:42.503,1:41.805
+2024,17,Azerbaijan Grand Prix,2024-09-15,Sergio Pérez,Red Bull,4,1:43.213,1:42.263,1:41.813
+2024,17,Azerbaijan Grand Prix,2024-09-15,George Russell,Mercedes,5,1:43.139,1:42.329,1:41.874
+2024,17,Azerbaijan Grand Prix,2024-09-15,Max Verstappen,Red Bull,6,1:43.097,1:42.042,1:42.023
+2024,17,Azerbaijan Grand Prix,2024-09-15,Lewis Hamilton,Mercedes,7,1:43.089,1:42.765,1:42.289
+2024,17,Azerbaijan Grand Prix,2024-09-15,Fernando Alonso,Aston Martin,8,1:43.472,1:42.426,1:42.369
+2024,17,Azerbaijan Grand Prix,2024-09-15,Franco Colapinto,Williams,9,1:43.138,1:42.473,1:42.530
+2024,17,Azerbaijan Grand Prix,2024-09-15,Alexander Albon,Williams,10,1:42.899,1:42.840,1:42.859
+2024,17,Azerbaijan Grand Prix,2024-09-15,Oliver Bearman,Haas F1 Team,11,1:43.471,1:42.968,
+2024,17,Azerbaijan Grand Prix,2024-09-15,Yuki Tsunoda,RB F1 Team,12,1:43.337,1:43.035,
+2024,17,Azerbaijan Grand Prix,2024-09-15,Nico Hülkenberg,Haas F1 Team,13,1:43.101,1:43.191,
+2024,17,Azerbaijan Grand Prix,2024-09-15,Lance Stroll,Aston Martin,14,1:43.370,1:43.404,
+2024,17,Azerbaijan Grand Prix,2024-09-15,Daniel Ricciardo,RB F1 Team,15,1:43.547,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,Lando Norris,McLaren,16,1:43.609,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,Valtteri Bottas,Sauber,17,1:43.618,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,Guanyu Zhou,Sauber,18,1:44.246,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,Esteban Ocon,Alpine F1 Team,19,1:44.504,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,Pierre Gasly,Alpine F1 Team,20,1:43.088,1:43.179,
+2024,18,Singapore Grand Prix,2024-09-22,Lando Norris,McLaren,1,1:30.002,1:30.007,1:29.525
+2024,18,Singapore Grand Prix,2024-09-22,Max Verstappen,Red Bull,2,1:30.157,1:29.680,1:29.728
+2024,18,Singapore Grand Prix,2024-09-22,Lewis Hamilton,Mercedes,3,1:30.393,1:29.929,1:29.841
+2024,18,Singapore Grand Prix,2024-09-22,George Russell,Mercedes,4,1:30.811,1:30.153,1:29.867
+2024,18,Singapore Grand Prix,2024-09-22,Oscar Piastri,McLaren,5,1:30.258,1:29.640,1:29.953
+2024,18,Singapore Grand Prix,2024-09-22,Nico Hülkenberg,Haas F1 Team,6,1:30.724,1:30.150,1:30.115
+2024,18,Singapore Grand Prix,2024-09-22,Fernando Alonso,Aston Martin,7,1:30.684,1:30.450,1:30.214
+2024,18,Singapore Grand Prix,2024-09-22,Yuki Tsunoda,RB F1 Team,8,1:30.710,1:30.289,1:30.354
+2024,18,Singapore Grand Prix,2024-09-22,Charles Leclerc,Ferrari,9,1:30.786,1:29.747,
+2024,18,Singapore Grand Prix,2024-09-22,Carlos Sainz,Ferrari,10,1:30.670,1:30.108,
+2024,18,Singapore Grand Prix,2024-09-22,Alexander Albon,Williams,11,1:30.679,1:30.474,
+2024,18,Singapore Grand Prix,2024-09-22,Franco Colapinto,Williams,12,1:30.704,1:30.481,
+2024,18,Singapore Grand Prix,2024-09-22,Sergio Pérez,Red Bull,13,1:30.624,1:30.579,
+2024,18,Singapore Grand Prix,2024-09-22,Kevin Magnussen,Haas F1 Team,14,1:30.829,1:30.653,
+2024,18,Singapore Grand Prix,2024-09-22,Esteban Ocon,Alpine F1 Team,15,1:30.958,1:30.769,
+2024,18,Singapore Grand Prix,2024-09-22,Daniel Ricciardo,RB F1 Team,16,1:31.085,,
+2024,18,Singapore Grand Prix,2024-09-22,Lance Stroll,Aston Martin,17,1:31.094,,
+2024,18,Singapore Grand Prix,2024-09-22,Pierre Gasly,Alpine F1 Team,18,1:31.312,,
+2024,18,Singapore Grand Prix,2024-09-22,Valtteri Bottas,Sauber,19,1:31.572,,
+2024,18,Singapore Grand Prix,2024-09-22,Guanyu Zhou,Sauber,20,1:32.054,,
+2024,19,United States Grand Prix,2024-10-20,Lando Norris,McLaren,1,1:33.616,1:32.851,1:32.330
+2024,19,United States Grand Prix,2024-10-20,Max Verstappen,Red Bull,2,1:33.046,1:32.584,1:32.361
+2024,19,United States Grand Prix,2024-10-20,Carlos Sainz,Ferrari,3,1:33.556,1:32.836,1:32.652
+2024,19,United States Grand Prix,2024-10-20,Charles Leclerc,Ferrari,4,1:33.241,1:32.962,1:32.740
+2024,19,United States Grand Prix,2024-10-20,Oscar Piastri,McLaren,5,1:33.864,1:33.057,1:32.950
+2024,19,United States Grand Prix,2024-10-20,George Russell,Mercedes,6,1:33.536,1:33.142,1:32.974
+2024,19,United States Grand Prix,2024-10-20,Pierre Gasly,Alpine F1 Team,7,1:33.550,1:33.162,1:33.018
+2024,19,United States Grand Prix,2024-10-20,Fernando Alonso,Aston Martin,8,1:33.973,1:33.429,1:33.309
+2024,19,United States Grand Prix,2024-10-20,Kevin Magnussen,Haas F1 Team,9,1:33.564,1:33.474,1:33.481
+2024,19,United States Grand Prix,2024-10-20,Sergio Pérez,Red Bull,10,1:33.611,1:33.020,
+2024,19,United States Grand Prix,2024-10-20,Yuki Tsunoda,RB F1 Team,11,1:33.795,1:33.506,
+2024,19,United States Grand Prix,2024-10-20,Nico Hülkenberg,Haas F1 Team,12,1:33.601,1:33.544,
+2024,19,United States Grand Prix,2024-10-20,Esteban Ocon,Alpine F1 Team,13,1:33.986,1:33.597,
+2024,19,United States Grand Prix,2024-10-20,Lance Stroll,Aston Martin,14,1:34.033,1:33.759,
+2024,19,United States Grand Prix,2024-10-20,Liam Lawson,RB F1 Team,15,1:33.339,,
+2024,19,United States Grand Prix,2024-10-20,Alexander Albon,Williams,16,1:34.051,,
+2024,19,United States Grand Prix,2024-10-20,Franco Colapinto,Williams,17,1:34.062,,
+2024,19,United States Grand Prix,2024-10-20,Valtteri Bottas,Sauber,18,1:34.152,,
+2024,19,United States Grand Prix,2024-10-20,Lewis Hamilton,Mercedes,19,1:34.154,,
+2024,19,United States Grand Prix,2024-10-20,Guanyu Zhou,Sauber,20,1:34.228,,
+2024,20,Mexico City Grand Prix,2024-10-27,Carlos Sainz,Ferrari,1,1:16.778,1:16.515,1:15.946
+2024,20,Mexico City Grand Prix,2024-10-27,Max Verstappen,Red Bull,2,1:16.803,1:16.514,1:16.171
+2024,20,Mexico City Grand Prix,2024-10-27,Lando Norris,McLaren,3,1:16.505,1:16.301,1:16.260
+2024,20,Mexico City Grand Prix,2024-10-27,Charles Leclerc,Ferrari,4,1:16.972,1:16.641,1:16.265
+2024,20,Mexico City Grand Prix,2024-10-27,George Russell,Mercedes,5,1:17.194,1:16.937,1:16.356
+2024,20,Mexico City Grand Prix,2024-10-27,Lewis Hamilton,Mercedes,6,1:17.306,1:16.973,1:16.651
+2024,20,Mexico City Grand Prix,2024-10-27,Kevin Magnussen,Haas F1 Team,7,1:17.125,1:17.003,1:16.886
+2024,20,Mexico City Grand Prix,2024-10-27,Pierre Gasly,Alpine F1 Team,8,1:17.149,1:17.048,1:16.892
+2024,20,Mexico City Grand Prix,2024-10-27,Alexander Albon,Williams,9,1:17.189,1:16.988,1:17.065
+2024,20,Mexico City Grand Prix,2024-10-27,Nico Hülkenberg,Haas F1 Team,10,1:17.186,1:16.995,1:17.365
+2024,20,Mexico City Grand Prix,2024-10-27,Yuki Tsunoda,RB F1 Team,11,1:17.182,1:17.129,
+2024,20,Mexico City Grand Prix,2024-10-27,Liam Lawson,RB F1 Team,12,1:17.380,1:17.162,
+2024,20,Mexico City Grand Prix,2024-10-27,Fernando Alonso,Aston Martin,13,1:17.307,1:17.168,
+2024,20,Mexico City Grand Prix,2024-10-27,Lance Stroll,Aston Martin,14,1:17.407,1:17.294,
+2024,20,Mexico City Grand Prix,2024-10-27,Valtteri Bottas,Sauber,15,1:17.393,1:17.817,
+2024,20,Mexico City Grand Prix,2024-10-27,Franco Colapinto,Williams,16,1:17.558,,
+2024,20,Mexico City Grand Prix,2024-10-27,Oscar Piastri,McLaren,17,1:17.597,,
+2024,20,Mexico City Grand Prix,2024-10-27,Sergio Pérez,Red Bull,18,1:17.611,,
+2024,20,Mexico City Grand Prix,2024-10-27,Esteban Ocon,Alpine F1 Team,19,1:17.617,,
+2024,20,Mexico City Grand Prix,2024-10-27,Guanyu Zhou,Sauber,20,1:18.072,,
+2024,21,São Paulo Grand Prix,2024-11-03,Lando Norris,McLaren,1,1:30.944,1:24.844,1:23.405
+2024,21,São Paulo Grand Prix,2024-11-03,George Russell,Mercedes,2,1:29.121,1:26.307,1:23.578
+2024,21,São Paulo Grand Prix,2024-11-03,Yuki Tsunoda,RB F1 Team,3,1:29.172,1:26.464,1:24.111
+2024,21,São Paulo Grand Prix,2024-11-03,Esteban Ocon,Alpine F1 Team,4,1:29.171,1:26.206,1:24.475
+2024,21,São Paulo Grand Prix,2024-11-03,Liam Lawson,RB F1 Team,5,1:30.758,1:25.654,1:24.484
+2024,21,São Paulo Grand Prix,2024-11-03,Charles Leclerc,Ferrari,6,1:29.839,1:26.097,1:24.525
+2024,21,São Paulo Grand Prix,2024-11-03,Alexander Albon,Williams,7,1:29.072,1:25.889,1:24.657
+2024,21,São Paulo Grand Prix,2024-11-03,Oscar Piastri,McLaren,8,1:30.114,1:25.179,1:24.686
+2024,21,São Paulo Grand Prix,2024-11-03,Fernando Alonso,Aston Martin,9,1:30.207,1:25.035,1:28.998
+2024,21,São Paulo Grand Prix,2024-11-03,Lance Stroll,Aston Martin,10,1:30.580,1:26.334,
+2024,21,São Paulo Grand Prix,2024-11-03,Valtteri Bottas,Sauber,11,1:30.633,1:26.472,
+2024,21,São Paulo Grand Prix,2024-11-03,Max Verstappen,Red Bull,12,1:28.522,1:27.771,
+2024,21,São Paulo Grand Prix,2024-11-03,Sergio Pérez,Red Bull,13,1:30.035,1:28.158,
+2024,21,São Paulo Grand Prix,2024-11-03,Carlos Sainz,Ferrari,14,1:30.303,1:29.406,
+2024,21,São Paulo Grand Prix,2024-11-03,Pierre Gasly,Alpine F1 Team,15,1:29.420,1:29.614,
+2024,21,São Paulo Grand Prix,2024-11-03,Lewis Hamilton,Mercedes,16,1:31.150,,
+2024,21,São Paulo Grand Prix,2024-11-03,Oliver Bearman,Haas F1 Team,17,1:31.229,,
+2024,21,São Paulo Grand Prix,2024-11-03,Franco Colapinto,Williams,18,1:31.270,,
+2024,21,São Paulo Grand Prix,2024-11-03,Nico Hülkenberg,Haas F1 Team,19,1:31.623,,
+2024,21,São Paulo Grand Prix,2024-11-03,Guanyu Zhou,Sauber,20,1:32.263,,
+2024,22,Las Vegas Grand Prix,2024-11-23,George Russell,Mercedes,1,1:33.186,1:32.779,1:32.312
+2024,22,Las Vegas Grand Prix,2024-11-23,Carlos Sainz,Ferrari,2,1:33.484,1:32.711,1:32.410
+2024,22,Las Vegas Grand Prix,2024-11-23,Pierre Gasly,Alpine F1 Team,3,1:33.691,1:32.879,1:32.664
+2024,22,Las Vegas Grand Prix,2024-11-23,Charles Leclerc,Ferrari,4,1:33.446,1:33.016,1:32.783
+2024,22,Las Vegas Grand Prix,2024-11-23,Max Verstappen,Red Bull,5,1:33.299,1:33.085,1:32.797
+2024,22,Las Vegas Grand Prix,2024-11-23,Lando Norris,McLaren,6,1:33.592,1:33.099,1:33.008
+2024,22,Las Vegas Grand Prix,2024-11-23,Yuki Tsunoda,RB F1 Team,7,1:33.789,1:33.089,1:33.029
+2024,22,Las Vegas Grand Prix,2024-11-23,Oscar Piastri,McLaren,8,1:33.450,1:33.024,1:33.033
+2024,22,Las Vegas Grand Prix,2024-11-23,Nico Hülkenberg,Haas F1 Team,9,1:33.920,1:33.114,1:33.062
+2024,22,Las Vegas Grand Prix,2024-11-23,Lewis Hamilton,Mercedes,10,1:33.225,1:32.567,1:48.106
+2024,22,Las Vegas Grand Prix,2024-11-23,Esteban Ocon,Alpine F1 Team,11,1:33.968,1:33.221,
+2024,22,Las Vegas Grand Prix,2024-11-23,Kevin Magnussen,Haas F1 Team,12,1:33.991,1:33.297,
+2024,22,Las Vegas Grand Prix,2024-11-23,Guanyu Zhou,Sauber,13,1:34.079,1:33.566,
+2024,22,Las Vegas Grand Prix,2024-11-23,Franco Colapinto,Williams,14,1:33.746,1:33.749,
+2024,22,Las Vegas Grand Prix,2024-11-23,Liam Lawson,RB F1 Team,15,1:34.087,1:34.257,
+2024,22,Las Vegas Grand Prix,2024-11-23,Sergio Pérez,Red Bull,16,1:34.155,,
+2024,22,Las Vegas Grand Prix,2024-11-23,Fernando Alonso,Aston Martin,17,1:34.258,,
+2024,22,Las Vegas Grand Prix,2024-11-23,Alexander Albon,Williams,18,1:34.425,,
+2024,22,Las Vegas Grand Prix,2024-11-23,Valtteri Bottas,Sauber,19,1:34.430,,
+2024,22,Las Vegas Grand Prix,2024-11-23,Lance Stroll,Aston Martin,20,1:34.484,,
+2024,23,Qatar Grand Prix,2024-12-01,Max Verstappen,Red Bull,1,1:21.579,1:20.687,1:20.520
+2024,23,Qatar Grand Prix,2024-12-01,George Russell,Mercedes,2,1:21.241,1:21.069,1:20.575
+2024,23,Qatar Grand Prix,2024-12-01,Lando Norris,McLaren,3,1:21.578,1:20.983,1:20.772
+2024,23,Qatar Grand Prix,2024-12-01,Oscar Piastri,McLaren,4,1:21.821,1:21.121,1:20.829
+2024,23,Qatar Grand Prix,2024-12-01,Charles Leclerc,Ferrari,5,1:21.278,1:21.000,1:20.852
+2024,23,Qatar Grand Prix,2024-12-01,Lewis Hamilton,Mercedes,6,1:21.637,1:21.095,1:21.011
+2024,23,Qatar Grand Prix,2024-12-01,Carlos Sainz,Ferrari,7,1:21.447,1:21.199,1:21.041
+2024,23,Qatar Grand Prix,2024-12-01,Fernando Alonso,Aston Martin,8,1:21.608,1:21.208,1:21.251
+2024,23,Qatar Grand Prix,2024-12-01,Sergio Pérez,Red Bull,9,1:21.675,1:21.425,1:21.425
+2024,23,Qatar Grand Prix,2024-12-01,Kevin Magnussen,Haas F1 Team,10,1:21.891,1:21.387,1:21.500
+2024,23,Qatar Grand Prix,2024-12-01,Pierre Gasly,Alpine F1 Team,11,1:21.843,1:21.437,
+2024,23,Qatar Grand Prix,2024-12-01,Guanyu Zhou,Sauber,12,1:22.103,1:21.501,
+2024,23,Qatar Grand Prix,2024-12-01,Valtteri Bottas,Sauber,13,1:21.927,1:21.731,
+2024,23,Qatar Grand Prix,2024-12-01,Yuki Tsunoda,RB F1 Team,14,1:22.364,1:21.771,
+2024,23,Qatar Grand Prix,2024-12-01,Lance Stroll,Aston Martin,15,1:22.011,1:21.911,
+2024,23,Qatar Grand Prix,2024-12-01,Alexander Albon,Williams,16,1:22.390,,
+2024,23,Qatar Grand Prix,2024-12-01,Liam Lawson,RB F1 Team,17,1:22.411,,
+2024,23,Qatar Grand Prix,2024-12-01,Nico Hülkenberg,Haas F1 Team,18,1:22.442,,
+2024,23,Qatar Grand Prix,2024-12-01,Franco Colapinto,Williams,19,1:22.594,,
+2024,23,Qatar Grand Prix,2024-12-01,Esteban Ocon,Alpine F1 Team,20,1:22.714,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Lando Norris,McLaren,1,1:23.682,1:23.098,1:22.595
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Oscar Piastri,McLaren,2,1:23.640,1:23.199,1:22.804
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Carlos Sainz,Ferrari,3,1:23.487,1:22.985,1:22.824
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Nico Hülkenberg,Haas F1 Team,4,1:23.722,1:23.040,1:22.886
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Max Verstappen,Red Bull,5,1:23.516,1:22.998,1:22.945
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Pierre Gasly,Alpine F1 Team,6,1:23.548,1:23.086,1:22.984
+2024,24,Abu Dhabi Grand Prix,2024-12-08,George Russell,Mercedes,7,1:23.678,1:23.283,1:23.132
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Fernando Alonso,Aston Martin,8,1:23.794,1:23.268,1:23.196
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Valtteri Bottas,Sauber,9,1:23.481,1:23.341,1:23.204
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Sergio Pérez,Red Bull,10,1:23.559,1:23.379,1:23.264
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Yuki Tsunoda,RB F1 Team,11,1:23.735,1:23.419,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Liam Lawson,RB F1 Team,12,1:23.733,1:23.472,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Lance Stroll,Aston Martin,13,1:23.729,1:23.784,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Charles Leclerc,Ferrari,14,1:23.302,1:23.833,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Kevin Magnussen,Haas F1 Team,15,1:23.632,1:23.877,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Alexander Albon,Williams,16,1:23.821,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Guanyu Zhou,Sauber,17,1:23.880,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Lewis Hamilton,Mercedes,18,1:23.887,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Franco Colapinto,Williams,19,1:23.912,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,Jack Doohan,Alpine F1 Team,20,1:24.105,,

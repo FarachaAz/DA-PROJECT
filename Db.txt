@@ -1,0 +1,5 @@
+ALTER USER postgres WITH PASSWORD 'FeresFeres2002@@';
+\q
+
+
+CREATE USER airbyte_user WITH PASSWORD 'airFeres2002@@';

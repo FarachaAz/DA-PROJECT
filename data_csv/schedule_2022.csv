@@ -1,0 +1,23 @@
+year,round,raceName,date,time,circuitName,locality,country,lat,long
+2022,1,Bahrain Grand Prix,2022-03-20,15:00:00Z,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106
+2022,2,Saudi Arabian Grand Prix,2022-03-27,17:00:00Z,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.6319,39.1044
+2022,3,Australian Grand Prix,2022-04-10,05:00:00Z,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968
+2022,4,Emilia Romagna Grand Prix,2022-04-24,13:00:00Z,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167
+2022,5,Miami Grand Prix,2022-05-08,19:30:00Z,Miami International Autodrome,Miami,USA,25.9581,-80.2389
+2022,6,Spanish Grand Prix,2022-05-22,13:00:00Z,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111
+2022,7,Monaco Grand Prix,2022-05-29,13:00:00Z,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056
+2022,8,Azerbaijan Grand Prix,2022-06-12,11:00:00Z,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533
+2022,9,Canadian Grand Prix,2022-06-19,18:00:00Z,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228
+2022,10,British Grand Prix,2022-07-03,14:00:00Z,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694
+2022,11,Austrian Grand Prix,2022-07-10,13:00:00Z,Red Bull Ring,Spielberg,Austria,47.2197,14.7647
+2022,12,French Grand Prix,2022-07-24,13:00:00Z,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167
+2022,13,Hungarian Grand Prix,2022-07-31,13:00:00Z,Hungaroring,Budapest,Hungary,47.5789,19.2486
+2022,14,Belgian Grand Prix,2022-08-28,13:00:00Z,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139
+2022,15,Dutch Grand Prix,2022-09-04,13:00:00Z,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092
+2022,16,Italian Grand Prix,2022-09-11,13:00:00Z,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111
+2022,17,Singapore Grand Prix,2022-10-02,12:00:00Z,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864
+2022,18,Japanese Grand Prix,2022-10-09,05:00:00Z,Suzuka Circuit,Suzuka,Japan,34.8431,136.541
+2022,19,United States Grand Prix,2022-10-23,19:00:00Z,Circuit of the Americas,Austin,USA,30.1328,-97.6411
+2022,20,Mexico City Grand Prix,2022-10-30,20:00:00Z,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907
+2022,21,São Paulo Grand Prix,2022-11-13,18:00:00Z,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997
+2022,22,Abu Dhabi Grand Prix,2022-11-20,13:00:00Z,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031
